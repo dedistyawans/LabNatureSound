@@ -1,0 +1,1210 @@
+{
+	"ads":
+	{
+		"live_version_code": -1,
+		"init_ads_mode": "single",
+		"timeout_load": 15,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"mrec_ad_identifier": "identifier_4",
+
+		"interval_awal": 2,
+
+		"kemungkinan_smatoo": 0,
+		"minimum_time_smatoo": 0,
+		"interval_smatoo": 5,
+		"smatoo_publisher_id": "-",
+		"smatoo_banner": "-",
+		"smatoo_mrec": "-",
+		"smatoo_inter": "-",
+		"smatoo_init_wait": true,
+
+		"kemungkinan_appodeal": 0,
+		"minimum_time_appodeal": 120,
+		"interval_appodeal": 5,
+		"appodeal_app_key": "-",
+		"appodeal_init_wait": true,
+
+		"kemungkinan_vungle": 0,
+		"minimum_time_vungle": 120,
+		"interval_vungle": 5,
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+		"vungle_init_wait": true,
+
+		"kemungkinan_iron": 0,
+		"minimum_time_iron": 120,
+		"interval_iron": 5,
+		"iron_appkey": "-",
+		"iron_init_wait": true,
+
+		"kemungkinan_fan": 0,
+		"minimum_time_fan": 120,
+		"interval_fan": 5,
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+		"fan_init_wait": true,
+
+		"kemungkinan_unity": 0,
+		"minimum_time_unity": 120,
+		"interval_unity": 5,
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+		"unity_init_wait": true,
+
+		"kemungkinan_admob": 0,
+		"minimum_time_admob": 600,
+		"interval_admob": 5,
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+		"admob_init_wait": true,
+
+		"kemungkinan_max": 0,
+		"minimum_time_max": 120,
+		"interval_max": 5,
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+		"max_init_wait": true,
+
+		"kemungkinan_startapp": 1,
+		"minimum_time_startapp": 0,
+		"interval_startapp": 5,
+		"startapp_id": "205960563",
+		"startapp_init_wait": true,
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "Dayak Remix Offline",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ Haning Dayak",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Haning Dayak Full Bass",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/tray.jpg"
+		},
+		{
+			"id": 5,
+			"name_category": "Lagu Dayak Sape Borneo",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "Dayak Remix Offline",
+			"title": "ATA DEDENSY - DIA BATINDAR HINDAI",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/ATA_DEDENSY_-_DIA_BATINDAR_HINDAI.mp3",
+			"duration": "373",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "Dayak Remix Offline",
+			"title": "BULAN TRIANA - ANGAT HIMANG",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/BULAN_TRIANA_-_ANGAT_HIMANG.mp3",
+			"duration": "346",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "Dayak Remix Offline",
+			"title": "CACA - ABANG AGAU",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/CACA_-_ABANG_AGAU.mp3",
+			"duration": "384",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "Dayak Remix Offline",
+			"title": "DILLA SUHUI - MUNDAHAN BAYA NUPI",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/DILLA_SUHUI_-_MUNDAHAN_BAYA_NUPI.mp3",
+			"duration": "345",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "Dayak Remix Offline",
+			"title": "DJ BAKANALAN'T KA SISI SUNGE",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/DJ_BAKANALAN'T_KA_SISI_SUNGE.mp3",
+			"duration": "349",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "Dayak Remix Offline",
+			"title": "DJ DAYAK MARANDAM CINTA REMIX",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/DJ_DAYAK_MARANDAM_CINTA_REMIX.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "Dayak Remix Offline",
+			"title": "DJ HANING REMIX VIRAL",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/DJ_HANING_REMIX_VIRAL.mp3",
+			"duration": "375",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "Dayak Remix Offline",
+			"title": "DJ JERAWAT RINDU FULL BASS",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/DJ_JERAWAT_RINDU_FULL_BASS.mp3",
+			"duration": "344",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "Dayak Remix Offline",
+			"title": "DJ KATULUS ATEI REMIX",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/DJ_KATULUS_ATEI_REMIX.mp3",
+			"duration": "383",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "Dayak Remix Offline",
+			"title": "DJ MALAM MINGGU VIRAL",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/DJ_MALAM_MINGGU_VIRAL.mp3",
+			"duration": "379",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "Dayak Remix Offline",
+			"title": "DJ MATA NANG LAKI NANG TUHA",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/DJ_MATA_NANG_LAKI_NANG_TUHA.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "Dayak Remix Offline",
+			"title": "DJ REMIX TABAYANG",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/DJ_REMIX_TABAYANG.mp3",
+			"duration": "362",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "Dayak Remix Offline",
+			"title": "ELA - NYIA NYIA JE TEG",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/ELA_-_NYIA_NYIA_JE_TEG.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "Dayak Remix Offline",
+			"title": "ELSA MERISKA PUTRI - MIKIR HELU",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/ELSA_MERISKA_PUTRI_-_MIKIR_HELU.mp3",
+			"duration": "385",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "Dayak Remix Offline",
+			"title": "FEBY ANGELITA - JAGAU IDOLA",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/FEBY_ANGELITA_-_JAGAU_IDOLA.mp3",
+			"duration": "301",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "Dayak Remix Offline",
+			"title": "HERLINA - MAINGKAR JANJI",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/HERLINA_-_MAINGKAR_JANJI.mp3",
+			"duration": "328",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "Dayak Remix Offline",
+			"title": "INTAN AISHWARA - BABUSAU CINTA",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/INTAN_AISHWARA_-_BABUSAU_CINTA.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "Dayak Remix Offline",
+			"title": "INTAN AISHWARA - BIDUAN KARUNGUT",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/INTAN_AISHWARA_-_BIDUAN_KARUNGUT.mp3",
+			"duration": "647",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "Dayak Remix Offline",
+			"title": "INTAN AISHWARA -BATATEMPAK",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/INTAN_AISHWARA_-BATATEMPAK.mp3",
+			"duration": "342",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "Dayak Remix Offline",
+			"title": "JORDY KANJA - TAPIKAT PUNEI LEWU",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/JORDY_KANJA_-_TAPIKAT_PUNEI_LEWU.mp3",
+			"duration": "310",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "Dayak Remix Offline",
+			"title": "KRISNA - CINTA SEUMUR JANANG",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/KRISNA_-_CINTA_SEUMUR_JANANG.mp3",
+			"duration": "346",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "Dayak Remix Offline",
+			"title": "KRISTIN - BAWI DESA",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/KRISTIN_-_BAWI_DESA.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "Dayak Remix Offline",
+			"title": "LING LING PUPUT - TAKAR KUNTEP",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/LING_LING_PUPUT_-_TAKAR_KUNTEP.mp3",
+			"duration": "318",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "Dayak Remix Offline",
+			"title": "RADHA LINA - BELAI BAJAI",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/RADHA_LINA_-_BELAI_BAJAI.mp3",
+			"duration": "326",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "Dayak Remix Offline",
+			"title": "RADHA LINA - KATULUS ATEI",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/RADHA_LINA_-_KATULUS_ATEI.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "Dayak Remix Offline",
+			"title": "RESSA FATRICIA - MARANDAM CINTA",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/RESSA_FATRICIA_-_MARANDAM_CINTA.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "Dayak Remix Offline",
+			"title": "TAMARA VIO - SANDARAN ATEY",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/TAMARA_VIO_-_SANDARAN_ATEY.mp3",
+			"duration": "306",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "Dayak Remix Offline",
+			"title": "TIGA BAWI BAJENTA - SARABA KANA",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/TIGA_BAWI_BAJENTA_-_SARABA_KANA.mp3",
+			"duration": "298",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "Dayak Remix Offline",
+			"title": "TRIA FT VITALOKA -  JATUN BAGIE",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/TRIA_FT_VITALOKA_-__JATUN_BAGIE.mp3",
+			"duration": "326",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "Dayak Remix Offline",
+			"title": "TRIA FT VITALOKA - TAHALANG HARTA",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/TRIA_FT_VITALOKA_-_TAHALANG_HARTA.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "Dayak Remix Offline",
+			"title": "TRIA RAMAYANTI - GARUJUT ATEI HUANG",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/TRIA_RAMAYANTI_-_GARUJUT_ATEI_HUANG.mp3",
+			"duration": "273",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "Dayak Remix Offline",
+			"title": "TRIA RAMAYANTI - KEPASTIAN CINTA",
+			"image": "file:///android_asset/content/Dayak_Remix_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Dayak_Remix_Offline/TRIA_RAMAYANTI_-_KEPASTIAN_CINTA.mp3",
+			"duration": "298",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ BANG JONO X KKN DESA PENARI REMIX",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_1.mp3",
+			"duration": "364",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ DARI YANG MUDA X TUKERAN SEMVAQ X BEAUTIFUL GIRLS",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_10.mp3",
+			"duration": "401",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "Dj Ghost Jedag Jedug",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_11.mp3",
+			"duration": "227",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ INILAH AKU RAJA MEXICO",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_12.mp3",
+			"duration": "306",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ Malam Ini Tangkis Dang",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_13.mp3",
+			"duration": "251",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ MENIMISU X AKON RIGHT NOW",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_14.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ RIP LOVE FAOUZIA",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_15.mp3",
+			"duration": "350",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ CINTA SAMPAI MATI",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_16.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ Dalam Sepiku Kaulah Candaku",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_17.mp3",
+			"duration": "255",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ DALAMO DALAMO",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_18.mp3",
+			"duration": "335",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ Gani Gani Hujan Badai Angin Ribut",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_19.mp3",
+			"duration": "248",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ Dia Gadis Berkerudung Merah",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_2.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "Dj beautiful girl",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_20.mp3",
+			"duration": "250",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ DO YOU LIKE A TRUCK",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_21.mp3",
+			"duration": "244",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ TRUMPET NARCO",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_22.mp3",
+			"duration": "236",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ BABY DONT GO X TIPAT TIPAT",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_23.mp3",
+			"duration": "233",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ I Love Mama Mantu",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_24.mp3",
+			"duration": "208",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ TOXIC FRIENDS SLOW",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_25.mp3",
+			"duration": "181",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ PECAH SERIBU",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_26.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "Dj lagi lagi ku tak bisa tidur",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_27.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ MELEPAS MASA LAJANG",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_28.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ Bila Nanti Remix",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_29.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "Dj harga diriku - Wali Band",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_3.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ SELALU TERSIMPAN ZIDAN",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_30.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ SIA SIA KU BERJUANG SLOW",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_31.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ SUDAH TAK CINTA",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_32.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ TAHAN NI LUKA",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_33.mp3",
+			"duration": "216",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ AKANKAH KAU MERASAKAN",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_34.mp3",
+			"duration": "238",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ CINTA SAMPAI MATI 2",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_35.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ CONTELO JERAWAT RINDU",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_36.mp3",
+			"duration": "341",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ Jawa Ngamen 5 Slow",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_4.mp3",
+			"duration": "197",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ KU BERLAYAR DI LAUTAN TIDAK BERTEPIAN",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_5.mp3",
+			"duration": "352",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ NENEKKU PAHLAWANKU",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_6.mp3",
+			"duration": "311",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ POK AME AME BELALANG KUPU KUPU",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_7.mp3",
+			"duration": "312",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ Ya Cuman Kamu",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_8.mp3",
+			"duration": "216",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "DJ Campuran Yang Lagi Viral",
+			"title": "DJ ANGEL BABY JEDAG JEDUG",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Campuran_Yang_Lagi_Viral/DJ_Campuran_Yang_Lagi_Viral_9.mp3",
+			"duration": "264",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "DJ Haning Dayak",
+			"title": "DJ Haning Dayak 1",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/DJ_Haning_Dayak_1.mp3",
+			"duration": "328",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "DJ Haning Dayak",
+			"title": "DJ Haning Dayak 10",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/DJ_Haning_Dayak_10.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "DJ Haning Dayak",
+			"title": "DJ Haning Dayak 11",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/DJ_Haning_Dayak_11.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "DJ Haning Dayak",
+			"title": "DJ Haning Dayak 12",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/DJ_Haning_Dayak_12.mp3",
+			"duration": "321",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "DJ Haning Dayak",
+			"title": "DJ Haning Dayak 13",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/DJ_Haning_Dayak_13.mp3",
+			"duration": "324",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "DJ Haning Dayak",
+			"title": "DJ Haning Dayak 14",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/DJ_Haning_Dayak_14.mp3",
+			"duration": "405",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "DJ Haning Dayak",
+			"title": "DJ Haning Dayak 15",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/DJ_Haning_Dayak_15.mp3",
+			"duration": "389",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "DJ Haning Dayak",
+			"title": "DJ Haning - Lagu Dayak (Remix Viral Full Bass 2019) AEFmtConversion1560576216245",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/DJ_Haning_Dayak_16.mp3",
+			"duration": "376",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "DJ Haning Dayak",
+			"title": "DJ Haning Dayak 17",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/DJ_Haning_Dayak_17.mp3",
+			"duration": "263",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "DJ Haning Dayak",
+			"title": "DJ Suci Dalam Debu - Iklim (Remix Full Bass Terbaru 2019) (1) AEFmtConversion1565201154025 AETrim1565201959759",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/DJ_Haning_Dayak_18.mp3",
+			"duration": "361",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "DJ Haning Dayak",
+			"title": "DJ Haning Dayak 2",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/DJ_Haning_Dayak_2.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "DJ Haning Dayak",
+			"title": "DJ Haning Dayak 3",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/DJ_Haning_Dayak_3.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "DJ Haning Dayak",
+			"title": "DJ Haning Dayak 4",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/DJ_Haning_Dayak_4.mp3",
+			"duration": "342",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "DJ Haning Dayak",
+			"title": "DJ Haning Dayak 5",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/DJ_Haning_Dayak_5.mp3",
+			"duration": "369",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "DJ Haning Dayak",
+			"title": "DJ RINDU SE RINDU RINDUNYA REMIX ORIGINAL TERBARU AEFmtConversion1562629080517",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/DJ_Haning_Dayak_6.mp3",
+			"duration": "506",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "DJ Haning Dayak",
+			"title": "DJ Haning Dayak 7",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/DJ_Haning_Dayak_7.mp3",
+			"duration": "294",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "DJ Haning Dayak",
+			"title": "DJ Haning Dayak 8",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/DJ_Haning_Dayak_8.mp3",
+			"duration": "480",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "DJ Haning Dayak",
+			"title": "DJ Haning Dayak 9",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak/DJ_Haning_Dayak_9.mp3",
+			"duration": "429",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "DJ Haning Dayak Full Bass",
+			"title": "dj-aisyah-jatuh-cinta-pada-jamilah",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/dj-aisyah-jatuh-cinta-pada-jamilah.mp3",
+			"duration": "440",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "DJ Haning Dayak Full Bass",
+			"title": "dj-cut-bass-boosted-mix-2019-best",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/dj-cut-bass-boosted-mix-2019-best.mp3",
+			"duration": "500",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "DJ Haning Dayak Full Bass",
+			"title": "dj-geleng-geleng-malam-ini",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/dj-geleng-geleng-malam-ini.mp3",
+			"duration": "392",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "DJ Haning Dayak Full Bass",
+			"title": "dj-haning-dayak",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/dj-haning-dayak.mp3",
+			"duration": "374",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "DJ Haning Dayak Full Bass",
+			"title": "dj-kartonyono-medot-janj-remi-full-bass",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/dj-kartonyono-medot-janj-remi-full-bass.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "DJ Haning Dayak Full Bass",
+			"title": "dj-ku-butuh-kasih-sayang-remix-terbaik-full-bass",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/dj-ku-butuh-kasih-sayang-remix-terbaik-full-bass.mp3",
+			"duration": "403",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "DJ Haning Dayak Full Bass",
+			"title": "dj-lily-slow-full-bass",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/dj-lily-slow-full-bass.mp3",
+			"duration": "659",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "DJ Haning Dayak Full Bass",
+			"title": "dj-oh-mantan-aisyah-full-bass-remix",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/dj-oh-mantan-aisyah-full-bass-remix.mp3",
+			"duration": "236",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "DJ Haning Dayak Full Bass",
+			"title": "dj-on-my-way",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/dj-on-my-way.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "DJ Haning Dayak Full Bass",
+			"title": "dj-satu-hati-sampai-mati-slow-bass",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/dj-satu-hati-sampai-mati-slow-bass.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "DJ Haning Dayak Full Bass",
+			"title": "dj-senorita-full-bass-terbaru-full-bass",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/dj-senorita-full-bass-terbaru-full-bass.mp3",
+			"duration": "291",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "DJ Haning Dayak Full Bass",
+			"title": "dj-slow-make-it-bun-dem",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/dj-slow-make-it-bun-dem.mp3",
+			"duration": "717",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "DJ Haning Dayak Full Bass",
+			"title": "dj-slow-salah-apa-aku-remix",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/dj-slow-salah-apa-aku-remix.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "DJ Haning Dayak Full Bass",
+			"title": "dj-terbaru-mungkin-full-bass",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/dj-terbaru-mungkin-full-bass.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 101,
+			"name_category": "DJ Haning Dayak Full Bass",
+			"title": "dj-tokyo-drift-teriyaki-boyz-full-bass",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/DJ_Haning_Dayak_Full_Bass/dj-tokyo-drift-teriyaki-boyz-full-bass.mp3",
+			"duration": "235",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 102,
+			"name_category": "Lagu Dayak Sape Borneo",
+			"title": "Lagu Dayak Sape Borneo 1",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/Lagu_Dayak_Sape_Borneo_1.mp3",
+			"duration": "261",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 103,
+			"name_category": "Lagu Dayak Sape Borneo",
+			"title": "Lagu Dayak Sape Borneo 10",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/Lagu_Dayak_Sape_Borneo_10.mp3",
+			"duration": "375",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 104,
+			"name_category": "Lagu Dayak Sape Borneo",
+			"title": "Lagu Dayak Sape Borneo 11",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/Lagu_Dayak_Sape_Borneo_11.mp3",
+			"duration": "237",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 105,
+			"name_category": "Lagu Dayak Sape Borneo",
+			"title": "Lagu Dayak Sape Borneo 12",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/Lagu_Dayak_Sape_Borneo_12.mp3",
+			"duration": "350",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 106,
+			"name_category": "Lagu Dayak Sape Borneo",
+			"title": "Lagu Dayak Sape Borneo 13",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/Lagu_Dayak_Sape_Borneo_13.mp3",
+			"duration": "221",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 107,
+			"name_category": "Lagu Dayak Sape Borneo",
+			"title": "Lagu Dayak Sape Borneo 14",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/Lagu_Dayak_Sape_Borneo_14.mp3",
+			"duration": "215",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 108,
+			"name_category": "Lagu Dayak Sape Borneo",
+			"title": "Lagu Dayak Sape Borneo 15",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/Lagu_Dayak_Sape_Borneo_15.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 109,
+			"name_category": "Lagu Dayak Sape Borneo",
+			"title": "Lagu Dayak Sape Borneo 16",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/Lagu_Dayak_Sape_Borneo_16.mp3",
+			"duration": "439",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 110,
+			"name_category": "Lagu Dayak Sape Borneo",
+			"title": "Lagu Dayak Sape Borneo 17",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/Lagu_Dayak_Sape_Borneo_17.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 111,
+			"name_category": "Lagu Dayak Sape Borneo",
+			"title": "Lagu Dayak Sape Borneo 18",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/Lagu_Dayak_Sape_Borneo_18.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 112,
+			"name_category": "Lagu Dayak Sape Borneo",
+			"title": "Lagu Dayak Sape Borneo 19",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/Lagu_Dayak_Sape_Borneo_19.mp3",
+			"duration": "244",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 113,
+			"name_category": "Lagu Dayak Sape Borneo",
+			"title": "Lagu Dayak Sape Borneo 2",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/Lagu_Dayak_Sape_Borneo_2.mp3",
+			"duration": "247",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 114,
+			"name_category": "Lagu Dayak Sape Borneo",
+			"title": "Lagu Dayak Sape Borneo 20",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/Lagu_Dayak_Sape_Borneo_20.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 115,
+			"name_category": "Lagu Dayak Sape Borneo",
+			"title": "Lagu Dayak Sape Borneo 3",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/Lagu_Dayak_Sape_Borneo_3.mp3",
+			"duration": "310",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 116,
+			"name_category": "Lagu Dayak Sape Borneo",
+			"title": "Lagu Dayak Sape Borneo 4",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/Lagu_Dayak_Sape_Borneo_4.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 117,
+			"name_category": "Lagu Dayak Sape Borneo",
+			"title": "Lagu Dayak Sape Borneo 5",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/Lagu_Dayak_Sape_Borneo_5.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 118,
+			"name_category": "Lagu Dayak Sape Borneo",
+			"title": "Lagu Dayak Sape Borneo 6",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/Lagu_Dayak_Sape_Borneo_6.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 119,
+			"name_category": "Lagu Dayak Sape Borneo",
+			"title": "Lagu Dayak Sape Borneo 7",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/Lagu_Dayak_Sape_Borneo_7.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 120,
+			"name_category": "Lagu Dayak Sape Borneo",
+			"title": "Lagu Dayak Sape Borneo 8",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/Lagu_Dayak_Sape_Borneo_8.mp3",
+			"duration": "348",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 121,
+			"name_category": "Lagu Dayak Sape Borneo",
+			"title": "Lagu Dayak Sape Borneo 9",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djlagudayakremixbass/Lagu_Dayak_Sape_Borneo/Lagu_Dayak_Sape_Borneo_9.mp3",
+			"duration": "261",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
