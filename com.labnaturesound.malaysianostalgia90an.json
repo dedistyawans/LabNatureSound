@@ -126,6 +126,33 @@
 		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
 	},
 
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Gudang Lagu Malaysia Offline",
+      "image": "file:///android_asset/content/Gudang_Lagu_Malaysia_Offline/tray.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Hamdalah Lagu Malaysia",
+      "image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagumalaysiahit90anoffline/Hamdalah_Lagu_Malaysia/tray.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Malaysia Lagu Koleksi",
+      "image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagumalaysiahit90anoffline/Malaysia_Lagu_Koleksi/tray.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Pucuk Malay 90an",
+      "image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagumalaysiahit90anoffline/Pucuk_Malay_90an/tray.jpg"
+    },
+    {
+      "id": 5,
+      "name_category": "Slow Rock Malaysia",
+      "image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagumalaysiahit90anoffline/Slow_Rock_Malaysia/tray.jpg"
+    }
+  ],
   "Data": [
     {
       "id": 1,
