@@ -1,0 +1,1639 @@
+{
+	"ads":
+	{
+		"live_version_code": -1,
+		"init_ads_mode": "single",
+
+		"timeout_load": 15,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_1",
+		"banner_ad_identifier": "identifier_2",
+		"mrec_ad_identifier": "identifier_2",
+
+		"interval_awal": 2,
+
+		"kemungkinan_smatoo": 0,
+		"minimum_time_smatoo": 0,
+		"interval_smatoo": 5,
+		"smatoo_publisher_id": "-",
+		"smatoo_banner": "-",
+		"smatoo_mrec": "-",
+		"smatoo_inter": "-",
+		"smatoo_init_wait": true,
+		"smatoo_banner_on" : true,
+		"smatoo_mrec_on" : true,
+		"smatoo_splash_on" : true,
+		"smatoo_inter_on" : true,
+
+		"kemungkinan_appodeal": 0,
+		"minimum_time_appodeal": 120,
+		"interval_appodeal": 5,
+		"appodeal_app_key": "-",
+		"appodeal_init_wait": true,
+		"appodeal_banner_on" : true,
+		"appodeal_mrec_on" : true,
+		"appodeal_splash_on" : true,
+		"appodeal_inter_on" : true,
+
+		"kemungkinan_vungle": 0,
+		"minimum_time_vungle": 120,
+		"interval_vungle": 5,
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+		"vungle_init_wait": true,
+		"vungle_banner_on" : true,
+		"vungle_mrec_on" : true,
+		"vungle_splash_on" : true,
+		"vungle_inter_on" : true,
+
+		"kemungkinan_iron": 0,
+		"minimum_time_iron": 120,
+		"interval_iron": 5,
+		"iron_appkey": "-",
+		"iron_init_wait": true,
+		"iron_banner_on" : false,
+		"iron_mrec_on" : false,
+		"iron_splash_on" : true,
+		"iron_inter_on" : true,
+
+		"kemungkinan_fan": 0,
+		"minimum_time_fan": 120,
+		"interval_fan": 5,
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+		"fan_init_wait": true,
+		"fan_banner_on" : true,
+		"fan_mrec_on" : true,
+		"fan_splash_on" : true,
+		"fan_inter_on" : true,
+
+		"kemungkinan_unity": 0,
+		"minimum_time_unity": 120,
+		"interval_unity": 5,
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+		"unity_init_wait": true,
+		"unity_banner_on" : true,
+		"unity_mrec_on" : true,
+		"unity_splash_on" : true,
+		"unity_inter_on" : true,
+
+		"kemungkinan_admob": 0,
+		"minimum_time_admob": 600,
+		"interval_admob": 5,
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+		"admob_init_wait": true,
+		"admob_banner_on" : true,
+		"admob_mrec_on" : true,
+		"admob_splash_on" : true,
+		"admob_inter_on" : true,
+
+		"kemungkinan_max": 0,
+		"minimum_time_max": 120,
+		"interval_max": 5,
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+		"max_init_wait": true,
+		"max_banner_on" : true,
+		"max_mrec_on" : true,
+		"max_splash_on" : true,
+		"max_inter_on" : true,
+
+		"kemungkinan_startapp": 1,
+		"minimum_time_startapp": 0,
+		"interval_startapp": 5,
+		"startapp_id": "205960563",
+		"startapp_init_wait": true,
+		"startapp_banner_on" : true,
+		"startapp_mrec_on" : true,
+		"startapp_splash_on" : true,
+		"startapp_inter_on" : true,
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "Ade Astrid",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "Ade Astrid bajidor",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "Dangdut Bajidoor",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoor/tray.jpg"
+		},
+		{
+			"id": 5,
+			"name_category": "Dangdut Bajidoran",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg"
+		},
+		{
+			"id": 6,
+			"name_category": "Lagu Astrid",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "0.GALA  GALA - ADE ASTRID",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/0.GALA__GALA_-_ADE_ASTRID.mp3",
+			"duration": "297",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "01 DAGANG PINDANG - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/01_DAGANG_PINDANG_-_Ade_Astrid.mp3",
+			"duration": "461",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "02 ORAY WELANG - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/02_ORAY_WELANG_-_Ade_Astrid.mp3",
+			"duration": "212",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "03 KECEWA - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/03_KECEWA_-_Ade_Astrid.mp3",
+			"duration": "511",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "04 KUDA SUMEDANG - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/04_KUDA_SUMEDANG_-_Ade_Astrid.mp3",
+			"duration": "248",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "05 SESAH HILAPNA - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/05_SESAH_HILAPNA_-_Ade_Astrid.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "06 TAPAK CINTA - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/06_TAPAK_CINTA_-_Ade_Astrid.mp3",
+			"duration": "264",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "07 TELER - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/07_TELER_-_Ade_Astrid.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "08 MAPAY ROKOK - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/08_MAPAY_ROKOK_-_Ade_Astrid.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "09 BENCI - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/09_BENCI_-_Ade_Astrid.mp3",
+			"duration": "285",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "10 BULAN SAPOTONG - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/10_BULAN_SAPOTONG_-_Ade_Astrid.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "11 CADAS PANGERAN - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/11_CADAS_PANGERAN_-_Ade_Astrid.mp3",
+			"duration": "250",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "12 CIREBON BY PASS - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/12_CIREBON_BY_PASS_-_Ade_Astrid.mp3",
+			"duration": "222",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "13 GORENG PATUT - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/13_GORENG_PATUT_-_Ade_Astrid.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "14 MUNDUR ALON ALON - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/14_MUNDUR_ALON_ALON_-_Ade_Astrid.mp3",
+			"duration": "261",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "15 LAIN MILIH - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/15_LAIN_MILIH_-_Ade_Astrid.mp3",
+			"duration": "283",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "16 SAKUR NGIMPI - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/16_SAKUR_NGIMPI_-_Ade_Astrid.mp3",
+			"duration": "295",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "17 SULAM CINTA - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/17_SULAM_CINTA_-_Ade_Astrid.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "18 BAJU LORENG X TONGTOLANG NANGKA - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/18_BAJU_LORENG_X_TONGTOLANG_NANGKA_-_Ade_Astrid.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "19 LANAY - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/19_LANAY_-_Ade_Astrid.mp3",
+			"duration": "235",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "20 BALAKA - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/20_BALAKA_-_Ade_Astrid.mp3",
+			"duration": "309",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "21 KARTONYONO MEDOT JANJI - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/21_KARTONYONO_MEDOT_JANJI_-_Ade_Astrid.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "22 MANGKADE X ANAK MERAK - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/22_MANGKADE_X_ANAK_MERAK_-_Ade_Astrid.mp3",
+			"duration": "399",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "23 WARTIYEM - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/23_WARTIYEM_-_Ade_Astrid.mp3",
+			"duration": "285",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "24 HAMPURA - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/24_HAMPURA_-_Ade_Astrid.mp3",
+			"duration": "416",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "25 KAPOK - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/25_KAPOK_-_Ade_Astrid.mp3",
+			"duration": "183",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "26 MANUK KEPUDANG - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/26_MANUK_KEPUDANG_-_Ade_Astrid.mp3",
+			"duration": "166",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "27 JALAN DATAR - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/27_JALAN_DATAR_-_Ade_Astrid.mp3",
+			"duration": "341",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "28 CINTA DAN AIR MATA - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/28_CINTA_DAN_AIR_MATA_-_Ade_Astrid.mp3",
+			"duration": "344",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "29 NISTA - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/29_NISTA_-_Ade_Astrid.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "Ade Astrid Koplo Bajidor Offline",
+			"title": "30 CINTA BERAWAN - Ade Astrid",
+			"image": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Ade_Astrid_Koplo_Bajidor_Offline/30_CINTA_BERAWAN_-_Ade_Astrid.mp3",
+			"duration": "328",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "Ade Astrid",
+			"title": "Antara Teman dan Kasih",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Antara_Teman_dan_Kasih.mp3",
+			"duration": "257",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "Ade Astrid",
+			"title": "Bebende - Ade Astri",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Bebende_-_Ade_Astri.mp3",
+			"duration": "585",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "Ade Astrid",
+			"title": "Bojo Dua - Ade Astrid",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Bojo_Dua_-_Ade_Astrid.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "Ade Astrid",
+			"title": "Buleud - Ade Astri",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Buleud_-_Ade_Astri.mp3",
+			"duration": "152",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "Ade Astrid",
+			"title": "Bunga - Ade Astri",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Bunga_-_Ade_Astri.mp3",
+			"duration": "240",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "Ade Astrid",
+			"title": "Curug Candung",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Curug_Candung.mp3",
+			"duration": "516",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "Ade Astrid",
+			"title": "Daun Hiris - Ade Astri",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Daun_Hiris_-_Ade_Astri.mp3",
+			"duration": "369",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "Ade Astrid",
+			"title": "Daun Puspa - Ade Astri",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Daun_Puspa_-_Ade_Astri.mp3",
+			"duration": "399",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "Ade Astrid",
+			"title": "Dua Lelaki - Ade Astri",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Dua_Lelaki_-_Ade_Astri.mp3",
+			"duration": "175",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "Ade Astrid",
+			"title": "Duda Araban - Ade Astri",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Duda_Araban_-_Ade_Astri.mp3",
+			"duration": "128",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "Ade Astrid",
+			"title": "Garut Intan - Ade Astri",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Garut_Intan_-_Ade_Astri.mp3",
+			"duration": "150",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "Ade Astrid",
+			"title": "Imbit - Ade Astri",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Imbit_-_Ade_Astri.mp3",
+			"duration": "172",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "Ade Astrid",
+			"title": "Juragan Empang - Ade Astri",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Juragan_Empang_-_Ade_Astri.mp3",
+			"duration": "149",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "Ade Astrid",
+			"title": "Keloas - Ade Astid",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Keloas_-_Ade_Astid.mp3",
+			"duration": "139",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "Ade Astrid",
+			"title": "Kepalang - Ade Astri",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Kepalang_-_Ade_Astri.mp3",
+			"duration": "184",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "Ade Astrid",
+			"title": "Kuda Sumedang Bajidor - Ade Astri",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Kuda_Sumedang_Bajidor_-_Ade_Astri.mp3",
+			"duration": "116",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "Ade Astrid",
+			"title": "Mapay Roko Bajidor - Ade Astrid",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Mapay_Roko_Bajidor_-_Ade_Astrid.mp3",
+			"duration": "337",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "Ade Astrid",
+			"title": "Mengejar Badai",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Mengejar_Badai.mp3",
+			"duration": "216",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "Ade Astrid",
+			"title": "Nista - Ade Astrid",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Nista_-_Ade_Astrid.mp3",
+			"duration": "376",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "Ade Astrid",
+			"title": "Pecah Seribu",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Pecah_Seribu.mp3",
+			"duration": "228",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "Ade Astrid",
+			"title": "Pemuda Idaman - Ade Astrid",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Pemuda_Idaman_-_Ade_Astrid.mp3",
+			"duration": "169",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "Ade Astrid",
+			"title": "Rangkulan - Ade Astrid",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Rangkulan_-_Ade_Astrid.mp3",
+			"duration": "161",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "Ade Astrid",
+			"title": "Riweuh - Ade Astri",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Riweuh_-_Ade_Astri.mp3",
+			"duration": "92",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "Ade Astrid",
+			"title": "Sebuah Nama",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Sebuah_Nama.mp3",
+			"duration": "194",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "Ade Astrid",
+			"title": "Sesah - Ade Astri",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Sesah_-_Ade_Astri.mp3",
+			"duration": "159",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "Ade Astrid",
+			"title": "Sesah Hilapna - Ade Astrid",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Sesah_Hilapna_-_Ade_Astrid.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "Ade Astrid",
+			"title": "                              ",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid/Tiara_-_Ade_Astrid.mp3",
+			"duration": "491",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Baju Lorong x Tongtolang nangka",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Baju_Lorong_x_Tongtolang_nangka.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Balaka",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Balaka.mp3",
+			"duration": "309",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Benci",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Benci.mp3",
+			"duration": "285",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Bulan Sapotong",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Bulan_Sapotong.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Cadas Pangeran",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Cadas_Pangeran.mp3",
+			"duration": "250",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Cinta Berawan",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Cinta_Berawan.mp3",
+			"duration": "328",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Cinta Dan Air Mata",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Cinta_Dan_Air_Mata.mp3",
+			"duration": "344",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Cirebon By Pass",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Cirebon_By_Pass.mp3",
+			"duration": "222",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Dagang Pindang",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Dagang_Pindang.mp3",
+			"duration": "461",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Goreng Patut",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Goreng_Patut.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Hampura",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Hampura.mp3",
+			"duration": "416",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Jalan Datar",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Jalan_Datar.mp3",
+			"duration": "341",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Kapok",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Kapok.mp3",
+			"duration": "183",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Kartonyono Medot janji",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Kartonyono_Medot_janji.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Kecewa",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Kecewa.mp3",
+			"duration": "511",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Kuda Sumedang",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Kuda_Sumedang.mp3",
+			"duration": "248",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Lain Milih",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Lain_Milih.mp3",
+			"duration": "283",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Lanay",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Lanay.mp3",
+			"duration": "235",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Mangkade x Anak Merak",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Mangkade_x_Anak_Merak.mp3",
+			"duration": "399",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Manuk Kepudang",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Manuk_Kepudang.mp3",
+			"duration": "166",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Mapay Rokok",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Mapay_Rokok.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Mundur Alon Alon",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Mundur_Alon_Alon.mp3",
+			"duration": "261",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Nista",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Nista.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Oray Welang",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Oray_Welang.mp3",
+			"duration": "212",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Sakur Ngimpi",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Sakur_Ngimpi.mp3",
+			"duration": "295",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Sesah Hilapna",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Sesah_Hilapna.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Sulam Cinta",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Sulam_Cinta.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Tapak Cinta",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Tapak_Cinta.mp3",
+			"duration": "264",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Teler",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Teler.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "Ade Astrid bajidor",
+			"title": "Wartiyem",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Ade_Astrid_bajidor/Wartiyem.mp3",
+			"duration": "285",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "Dangdut Bajidoor",
+			"title": "BAJIDOR DANGDUT FULL ALBUM __ KOPLO BAJIDOR",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoor/BAJIDOR_DANGDUT_FULL_ALBUM____KOPLO_BAJIDOR.mp3",
+			"duration": "2472",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "Dangdut Bajidoor",
+			"title": "IDA ROSALINDA - FULL ALBUM  BAJIDOR VERSION",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoor/IDA_ROSALINDA_-_FULL_ALBUM__BAJIDOR_VERSION.mp3",
+			"duration": "3573",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "Dangdut Bajidoor",
+			"title": "Kumpulan Lagu Pongdut Bajidor Medley Terbaru",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoor/Kumpulan_Lagu_Pongdut_Bajidor_Medley_Terbaru.mp3",
+			"duration": "4419",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "Dangdut Bajidoor",
+			"title": "lagu dangdut versi bajidoran medley full album,Untuk joged",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoor/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoor/lagu_dangdut_versi_bajidoran_medley_full_album,Untuk_joged.mp3",
+			"duration": "3342",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "Dangdut Bajidoran",
+			"title": "7 BULAN",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/7_BULAN.mp3",
+			"duration": "171",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "Dangdut Bajidoran",
+			"title": "AA ULAH DEPO WAE",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/AA_ULAH_DEPO_WAE.mp3",
+			"duration": "232",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "Dangdut Bajidoran",
+			"title": "BADAI BIRU",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/BADAI_BIRU.mp3",
+			"duration": "344",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "Dangdut Bajidoran",
+			"title": "BALUWEUNG",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/BALUWEUNG.mp3",
+			"duration": "410",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "Dangdut Bajidoran",
+			"title": "BEBENDE",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/BEBENDE.mp3",
+			"duration": "375",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "Dangdut Bajidoran",
+			"title": "BENCI",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/BENCI.mp3",
+			"duration": "285",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "Dangdut Bajidoran",
+			"title": "BUAH NGORA",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/BUAH_NGORA.mp3",
+			"duration": "326",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "Dangdut Bajidoran",
+			"title": "BULAN SAPOTONG",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/BULAN_SAPOTONG.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 101,
+			"name_category": "Dangdut Bajidoran",
+			"title": "BULEUD",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/BULEUD.mp3",
+			"duration": "318",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 102,
+			"name_category": "Dangdut Bajidoran",
+			"title": "CURUG CANDUNG",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/CURUG_CANDUNG.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 103,
+			"name_category": "Dangdut Bajidoran",
+			"title": "DASAR JODO",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/DASAR_JODO.mp3",
+			"duration": "385",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 104,
+			"name_category": "Dangdut Bajidoran",
+			"title": "DAUN PUSPA",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/DAUN_PUSPA.mp3",
+			"duration": "253",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 105,
+			"name_category": "Dangdut Bajidoran",
+			"title": "DUA LALAKI",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/DUA_LALAKI.mp3",
+			"duration": "350",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 106,
+			"name_category": "Dangdut Bajidoran",
+			"title": "GALA - GALA",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/GALA_-_GALA.mp3",
+			"duration": "297",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 107,
+			"name_category": "Dangdut Bajidoran",
+			"title": "GARUT INTAN",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/GARUT_INTAN.mp3",
+			"duration": "377",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 108,
+			"name_category": "Dangdut Bajidoran",
+			"title": "GORENG PATUT",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/GORENG_PATUT.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 109,
+			"name_category": "Dangdut Bajidoran",
+			"title": "HIDUP DI BUI",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/HIDUP_DI_BUI.mp3",
+			"duration": "302",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 110,
+			"name_category": "Dangdut Bajidoran",
+			"title": "KUDA SUMEDANG",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/KUDA_SUMEDANG.mp3",
+			"duration": "231",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 111,
+			"name_category": "Dangdut Bajidoran",
+			"title": "LANAY",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/LANAY.mp3",
+			"duration": "354",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 112,
+			"name_category": "Dangdut Bajidoran",
+			"title": "LANGSUNG BOGOH",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/LANGSUNG_BOGOH.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 113,
+			"name_category": "Dangdut Bajidoran",
+			"title": "MANGKADE",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/MANGKADE.mp3",
+			"duration": "397",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 114,
+			"name_category": "Dangdut Bajidoran",
+			"title": "MANUK KEPUDANG",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/MANUK_KEPUDANG.mp3",
+			"duration": "166",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 115,
+			"name_category": "Dangdut Bajidoran",
+			"title": "MAPAY ROKO",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/MAPAY_ROKO.mp3",
+			"duration": "337",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 116,
+			"name_category": "Dangdut Bajidoran",
+			"title": "MAWAR BODAS",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/MAWAR_BODAS.mp3",
+			"duration": "341",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 117,
+			"name_category": "Dangdut Bajidoran",
+			"title": "MOJANG PRIANGAN",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/MOJANG_PRIANGAN.mp3",
+			"duration": "366",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 118,
+			"name_category": "Dangdut Bajidoran",
+			"title": "NISTA",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/NISTA.mp3",
+			"duration": "376",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 119,
+			"name_category": "Dangdut Bajidoran",
+			"title": "ORAY WELANG",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/ORAY_WELANG.mp3",
+			"duration": "212",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 120,
+			"name_category": "Dangdut Bajidoran",
+			"title": "PANGANTEN ANYAR",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/PANGANTEN_ANYAR.mp3",
+			"duration": "349",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 121,
+			"name_category": "Dangdut Bajidoran",
+			"title": "PECAH SERIBU",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/PECAH_SERIBU.mp3",
+			"duration": "454",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 122,
+			"name_category": "Dangdut Bajidoran",
+			"title": "PINTERKODEK",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/PINTERKODEK.mp3",
+			"duration": "309",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 123,
+			"name_category": "Dangdut Bajidoran",
+			"title": "PURUNYUS",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/PURUNYUS.mp3",
+			"duration": "409",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 124,
+			"name_category": "Dangdut Bajidoran",
+			"title": "RANGKULAN SALIRA",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/RANGKULAN_SALIRA.mp3",
+			"duration": "321",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 125,
+			"name_category": "Dangdut Bajidoran",
+			"title": "RAYUNGAN",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/RAYUNGAN.mp3",
+			"duration": "416",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 126,
+			"name_category": "Dangdut Bajidoran",
+			"title": "RIWEUH",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/RIWEUH.mp3",
+			"duration": "295",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 127,
+			"name_category": "Dangdut Bajidoran",
+			"title": "SAKUR NGIMPI",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/SAKUR_NGIMPI.mp3",
+			"duration": "295",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 128,
+			"name_category": "Dangdut Bajidoran",
+			"title": "SANCANG",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/SANCANG.mp3",
+			"duration": "262",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 129,
+			"name_category": "Dangdut Bajidoran",
+			"title": "SENGSARA",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/SENGSARA.mp3",
+			"duration": "297",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 130,
+			"name_category": "Dangdut Bajidoran",
+			"title": "SULAM CINTA",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/SULAM_CINTA.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 131,
+			"name_category": "Dangdut Bajidoran",
+			"title": "TERGUNCANG",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/TERGUNCANG.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 132,
+			"name_category": "Dangdut Bajidoran",
+			"title": "TEU SANGKA",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Dangdut_Bajidoran/TEU_SANGKA.mp3",
+			"duration": "354",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 133,
+			"name_category": "Lagu Astrid",
+			"title": "aa_ulah_depo_wae_terbaru_gala_gala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/aa_ulah_depo_wae_terbaru_gala_gala.mp3",
+			"duration": "232",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 134,
+			"name_category": "Lagu Astrid",
+			"title": "aa_ulah_eu_eut_wae",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/aa_ulah_eu_eut_wae.mp3",
+			"duration": "530",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 135,
+			"name_category": "Lagu Astrid",
+			"title": "aca_aca_nehi_nehi",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/aca_aca_nehi_nehi.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 136,
+			"name_category": "Lagu Astrid",
+			"title": "bangbung_hideung_medley_ulah_ceurik",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/bangbung_hideung_medley_ulah_ceurik.mp3",
+			"duration": "528",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 137,
+			"name_category": "Lagu Astrid",
+			"title": "bebende",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/bebende.mp3",
+			"duration": "375",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 138,
+			"name_category": "Lagu Astrid",
+			"title": "bojo_dua",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/bojo_dua.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 139,
+			"name_category": "Lagu Astrid",
+			"title": "buleud",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/buleud.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 140,
+			"name_category": "Lagu Astrid",
+			"title": "curug_candung",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/curug_candung.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 141,
+			"name_category": "Lagu Astrid",
+			"title": "daun_puspa",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/daun_puspa.mp3",
+			"duration": "285",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 142,
+			"name_category": "Lagu Astrid",
+			"title": "domba_kuring",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/domba_kuring.mp3",
+			"duration": "289",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 143,
+			"name_category": "Lagu Astrid",
+			"title": "dua_lalaki",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/dua_lalaki.mp3",
+			"duration": "370",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 144,
+			"name_category": "Lagu Astrid",
+			"title": "galak_timuru",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/galak_timuru.mp3",
+			"duration": "232",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 145,
+			"name_category": "Lagu Astrid",
+			"title": "imbit_ageung",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/imbit_ageung.mp3",
+			"duration": "344",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 146,
+			"name_category": "Lagu Astrid",
+			"title": "kapok",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/kapok.mp3",
+			"duration": "182",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 147,
+			"name_category": "Lagu Astrid",
+			"title": "kau_tercipta_bukan_untukku",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/kau_tercipta_bukan_untukku.mp3",
+			"duration": "257",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 148,
+			"name_category": "Lagu Astrid",
+			"title": "kereta_malam",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/kereta_malam.mp3",
+			"duration": "321",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 149,
+			"name_category": "Lagu Astrid",
+			"title": "mangkade_medley_anak_merak",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/mangkade_medley_anak_merak.mp3",
+			"duration": "397",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 150,
+			"name_category": "Lagu Astrid",
+			"title": "mapay_rokok_mandor",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/mapay_rokok_mandor.mp3",
+			"duration": "595",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 151,
+			"name_category": "Lagu Astrid",
+			"title": "mega_hideung",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/mega_hideung.mp3",
+			"duration": "396",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 152,
+			"name_category": "Lagu Astrid",
+			"title": "midua_cinta_langlayangan",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/midua_cinta_langlayangan.mp3",
+			"duration": "506",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 153,
+			"name_category": "Lagu Astrid",
+			"title": "nikmat_durian",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/nikmat_durian.mp3",
+			"duration": "368",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 154,
+			"name_category": "Lagu Astrid",
+			"title": "nista",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/nista.mp3",
+			"duration": "376",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 155,
+			"name_category": "Lagu Astrid",
+			"title": "oray_welang",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/oray_welang.mp3",
+			"duration": "398",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 156,
+			"name_category": "Lagu Astrid",
+			"title": "pecah_seribu",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/pecah_seribu.mp3",
+			"duration": "454",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 157,
+			"name_category": "Lagu Astrid",
+			"title": "pemuda_idaman",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/pemuda_idaman.mp3",
+			"duration": "252",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 158,
+			"name_category": "Lagu Astrid",
+			"title": "rangkulan_salira",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/rangkulan_salira.mp3",
+			"duration": "321",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 159,
+			"name_category": "Lagu Astrid",
+			"title": "rayungan",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/rayungan.mp3",
+			"duration": "380",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 160,
+			"name_category": "Lagu Astrid",
+			"title": "riweuh",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/riweuh.mp3",
+			"duration": "184",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 161,
+			"name_category": "Lagu Astrid",
+			"title": "sakur_ngimpi",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/sakur_ngimpi.mp3",
+			"duration": "295",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 162,
+			"name_category": "Lagu Astrid",
+			"title": "sesah_hilapna",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/sesah_hilapna.mp3",
+			"duration": "256",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 163,
+			"name_category": "Lagu Astrid",
+			"title": "talak_tilu",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/talak_tilu.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 164,
+			"name_category": "Lagu Astrid",
+			"title": "teu_sangka",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagukolobajidoradeastrid/Lagu_Astrid/teu_sangka.mp3",
+			"duration": "354",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
