@@ -1,0 +1,1490 @@
+{
+	"ads":
+	{
+		"live_version_code": -1,
+		"init_ads_mode": "single",
+
+		"timeout_load": 15,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_1",
+		"banner_ad_identifier": "identifier_2",
+		"mrec_ad_identifier": "identifier_2",
+
+		"interval_awal": 2,
+
+		"kemungkinan_smatoo": 0,
+		"minimum_time_smatoo": 0,
+		"interval_smatoo": 5,
+		"smatoo_publisher_id": "-",
+		"smatoo_banner": "-",
+		"smatoo_mrec": "-",
+		"smatoo_inter": "-",
+		"smatoo_init_wait": true,
+		"smatoo_banner_on" : true,
+		"smatoo_mrec_on" : true,
+		"smatoo_splash_on" : true,
+		"smatoo_inter_on" : true,
+
+		"kemungkinan_appodeal": 0,
+		"minimum_time_appodeal": 120,
+		"interval_appodeal": 5,
+		"appodeal_app_key": "-",
+		"appodeal_init_wait": true,
+		"appodeal_banner_on" : true,
+		"appodeal_mrec_on" : true,
+		"appodeal_splash_on" : true,
+		"appodeal_inter_on" : true,
+
+		"kemungkinan_vungle": 0,
+		"minimum_time_vungle": 120,
+		"interval_vungle": 5,
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+		"vungle_init_wait": true,
+		"vungle_banner_on" : true,
+		"vungle_mrec_on" : true,
+		"vungle_splash_on" : true,
+		"vungle_inter_on" : true,
+
+		"kemungkinan_iron": 0,
+		"minimum_time_iron": 120,
+		"interval_iron": 5,
+		"iron_appkey": "-",
+		"iron_init_wait": true,
+		"iron_banner_on" : false,
+		"iron_mrec_on" : false,
+		"iron_splash_on" : true,
+		"iron_inter_on" : true,
+
+		"kemungkinan_fan": 0,
+		"minimum_time_fan": 120,
+		"interval_fan": 5,
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+		"fan_init_wait": true,
+		"fan_banner_on" : true,
+		"fan_mrec_on" : true,
+		"fan_splash_on" : true,
+		"fan_inter_on" : true,
+
+		"kemungkinan_unity": 0,
+		"minimum_time_unity": 120,
+		"interval_unity": 5,
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+		"unity_init_wait": true,
+		"unity_banner_on" : true,
+		"unity_mrec_on" : true,
+		"unity_splash_on" : true,
+		"unity_inter_on" : true,
+
+		"kemungkinan_admob": 0,
+		"minimum_time_admob": 600,
+		"interval_admob": 5,
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+		"admob_init_wait": true,
+		"admob_banner_on" : true,
+		"admob_mrec_on" : true,
+		"admob_splash_on" : true,
+		"admob_inter_on" : true,
+
+		"kemungkinan_max": 0,
+		"minimum_time_max": 120,
+		"interval_max": 5,
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+		"max_init_wait": true,
+		"max_banner_on" : true,
+		"max_mrec_on" : true,
+		"max_splash_on" : true,
+		"max_inter_on" : true,
+
+		"kemungkinan_startapp": 1,
+		"minimum_time_startapp": 0,
+		"interval_startapp": 5,
+		"startapp_id": "205960563",
+		"startapp_init_wait": true,
+		"startapp_banner_on" : true,
+		"startapp_mrec_on" : true,
+		"startapp_splash_on" : true,
+		"startapp_inter_on" : true,
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "Maulana Ardiansyah Offline",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "Ardiansyah Full Album",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "Cover Maulana Ardiansyah",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "Maulana Ardiansyah Allbum",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/tray.jpg"
+		},
+		{
+			"id": 5,
+			"name_category": "Maulana Wijaya",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "1000 Janji",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/1000_janji_maulana_Ardiansyah.mp3",
+			"duration": "238",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "7 Samudera",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/7_SAMUDRA_maulana_Ardiansyah.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Air Mataku",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/air_mataku_maulana_Ardiansyah.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Aku Rela",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/aku_rela_maulana_Ardiansyah.mp3",
+			"duration": "208",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Beta Janji Beta Jaga",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/beta_janji_beta_jaga_maulana_Ardiansyah.mp3",
+			"duration": "232",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Bidadari Hati",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/bidadari_hati_maulana_Ardiansyah.mp3",
+			"duration": "235",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Bila Nanti",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/Bila_Nanti.mp3",
+			"duration": "220",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Cinta Terlarang",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/cinta_terlarang_maulana_Ardiansyah.mp3",
+			"duration": "286",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Curahan Hidup",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/curahan_hidup_maulana_Ardiansyah.mp3",
+			"duration": "244",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "X2Download.com - Maulana Ardiansyah - Dermaga Biru (Live Ska Reggae)",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/Dermaga_Biru.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Duri Duri",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/duri_duri_maulana_Ardiansyah.mp3",
+			"duration": "207",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Emas Hantaran",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/emas_hantaran_maulana_Ardiansyah.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Gubuk Derita",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/gubuk_derita_maulana_Ardiansyah.mp3",
+			"duration": "218",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Hanya Demi Dia",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/hanya_demi_dia_maulana_Ardiansyah.mp3",
+			"duration": "374",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Haruskah Aku Mati",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/haruskah_aku_mati_maulana_Ardiansyah.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Karna Su Sayang",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/karna_su_sayang_maulana_Ardiansyah.mp3",
+			"duration": "236",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Kau Teringat Masa Lalu",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/kau_terngat_masa_lalu_maulana_Ardiansyah.mp3",
+			"duration": "208",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Ko Mo Cari Yang Bagaimana",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/ko_mau_cari_yang_bagaimana_maulana_Ardiansyah.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Ku Puja Puja",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/ku_puja_puja_maulana_Ardiansyah.mp3",
+			"duration": "274",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Maafkan Aku",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/maafkan_aku_maulana_Ardiansyah.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Merelakan",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/merelakan_maulana_Ardiansyah.mp3",
+			"duration": "245",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Modal Bismillah",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/modal_bismilah_maulana_Ardiansyah.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "pamit maulana Ardiansyah",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/pamit_maulana_Ardiansyah.mp3",
+			"duration": "216",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Perlahan",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/perlahan_maulana_Ardiansyah.mp3",
+			"duration": "238",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Pesan Cinta",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/pesan_cinta_maulana_Ardiansyah.mp3",
+			"duration": "211",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Relaku Mengalah",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/Relaku_Mengalah.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Rembulan Malam",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/rembulan_malam_maulana_Ardiansyah.mp3",
+			"duration": "222",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Sepi Berkepanjangan",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/sepi_berkepanjangan_maulana_Ardiansyah.mp3",
+			"duration": "348",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Serpihan Rasa",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/serpihan_rasa_maulana_Ardiansyah.mp3",
+			"duration": "235",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Setialah Padaku",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/setialah_padaku_maulana_Ardiansyah.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Sia Sia Berjuang",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/sia_sia_berjuang_maulana_Ardiansyah.mp3",
+			"duration": "274",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Tak Sanggup Pergi",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tak_sanggup_pergi_maulana_Ardiansyah.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Tak Sedalam Ini",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tak_sedalam_ini_maulana_Ardiansyah.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Takdir Hidupku",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/takdir_hidupku_maulana_Ardiansyah.mp3",
+			"duration": "245",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Takkan Terganti",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/takkan_terganti_maulana_Ardiansyah.mp3",
+			"duration": "274",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Tetap Disini",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tetap_disini_maulana_Ardiansyah.mp3",
+			"duration": "294",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Tetap Menyayangimu",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tetap_menyayangimu_maulana_Ardiansyah.mp3",
+			"duration": "228",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Untukmu Temanku",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/untukmu_temanku_maulana_Ardiansyah.mp3",
+			"duration": "215",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "Maulana Ardiansyah Offline",
+			"title": "Wes Tak Ikhlasno",
+			"image": "file:///android_asset/content/Maulana_Ardiansyah_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Maulana_Ardiansyah_Offline/wes_tak_ikhlasno_maulana_Ardiansyah.mp3",
+			"duration": "256",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "Ardiansyah Full Album",
+			"title": "7 Samudera",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_1.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Relaku Mengalah",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_10.mp3",
+			"duration": "233",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Rembulan Malam",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_11.mp3",
+			"duration": "222",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Sakit Dalam Bercinta",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_12.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Sia Sia Berjuang",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_13.mp3",
+			"duration": "274",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Beta Janji Beta Jaga",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_14.mp3",
+			"duration": "232",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Haruskah Aku Mati",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_15.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Kau Teringat Masa Lalu",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_16.mp3",
+			"duration": "208",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Ku Puja Puja",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_17.mp3",
+			"duration": "274",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Lemah Teles",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_18.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Luka Sekerat Rasa",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_19.mp3",
+			"duration": "250",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Air Mataku",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_2.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Maafkan Aku",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_20.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Ardiansyah Full Album 21",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_21.mp3",
+			"duration": "216",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Perlahan",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_22.mp3",
+			"duration": "238",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Serpihan Rasa",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_23.mp3",
+			"duration": "235",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Untukmu Temanku",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_24.mp3",
+			"duration": "215",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Wes Tak Ikhlasno",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_25.mp3",
+			"duration": "256",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "Ardiansyah Full Album",
+			"title": "1000 Janji",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_26.mp3",
+			"duration": "238",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Bidadari Hati",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_27.mp3",
+			"duration": "235",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Curahan Hidup",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_28.mp3",
+			"duration": "244",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Gubuk Derita",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_29.mp3",
+			"duration": "218",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Aku Rela",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_3.mp3",
+			"duration": "208",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Modal Bismillah",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_30.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Tak Sanggup Pergi",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_31.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Tak Sedalam Ini",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_32.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Takdir Hidupku",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_33.mp3",
+			"duration": "245",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Takkan Terganti",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_34.mp3",
+			"duration": "274",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Tetap Menyayangimu",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_35.mp3",
+			"duration": "228",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Top Topan",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_36.mp3",
+			"duration": "245",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Buih Jadi Permadani",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_4.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Dalam Sepiku Kaulah Candaku",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_5.mp3",
+			"duration": "272",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Dermaga Biru",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_6.mp3",
+			"duration": "306",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Duri Duri",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_7.mp3",
+			"duration": "207",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Emas Hantaran",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_8.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "Ardiansyah Full Album",
+			"title": "Mencari Alasan",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Ardiansyah_Full_Album/Ardiansyah_Full_Album_9.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (1)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_1.mp3",
+			"duration": "321",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (10)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_10.mp3",
+			"duration": "243",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (11)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_11.mp3",
+			"duration": "251",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (12)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_12.mp3",
+			"duration": "249",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (13)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_13.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (14)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_14.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (15)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_15.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (16)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_16.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (17)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_17.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (18)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_18.mp3",
+			"duration": "312",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (19)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_19.mp3",
+			"duration": "253",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (2)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_2.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (20)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_20.mp3",
+			"duration": "273",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (21)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_21.mp3",
+			"duration": "222",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (22)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_22.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (23)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_23.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (24)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_24.mp3",
+			"duration": "290",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (25)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_25.mp3",
+			"duration": "334",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (26)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_26.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (27)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_27.mp3",
+			"duration": "199",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (28)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_28.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (29)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_29.mp3",
+			"duration": "286",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (3)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_3.mp3",
+			"duration": "289",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (30)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_30.mp3",
+			"duration": "230",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (31)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_31.mp3",
+			"duration": "292",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 101,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (32)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_32.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 102,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (33)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_33.mp3",
+			"duration": "323",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 103,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (4)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_4.mp3",
+			"duration": "247",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 104,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (5)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_5.mp3",
+			"duration": "240",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 105,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (6)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_6.mp3",
+			"duration": "219",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 106,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (7)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_7.mp3",
+			"duration": "354",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 107,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (8)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_8.mp3",
+			"duration": "229",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 108,
+			"name_category": "Cover Maulana Ardiansyah",
+			"title": "Cover Maulana Ardiansyah (9)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Cover_Maulana_Ardiansyah/Cover_Maulana_Ardiansyah_9.mp3",
+			"duration": "261",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 109,
+			"name_category": "Maulana Ardiansyah Allbum",
+			"title": "Maulana Ardiansyah - 1000 Janji (Official Acoustic Version)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/Maulana_Ardiansyah_Allbum_1.mp3",
+			"duration": "245",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 110,
+			"name_category": "Maulana Ardiansyah Allbum",
+			"title": "Maulana Ardiansyah - Top Topan (Live Reggae)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/Maulana_Ardiansyah_Allbum_10.mp3",
+			"duration": "266",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 111,
+			"name_category": "Maulana Ardiansyah Allbum",
+			"title": "Maulana Ardiansyah Ft. Dara Ayu - Asmara (Official Acoustic Version)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/Maulana_Ardiansyah_Allbum_11.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 112,
+			"name_category": "Maulana Ardiansyah Allbum",
+			"title": "Maulana Ardiansyah Ft.Nabila Cahya - CINTAKU - Dalam Sepiku Kaulah Candaku ( Official Music Video )",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/Maulana_Ardiansyah_Allbum_12.mp3",
+			"duration": "278",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 113,
+			"name_category": "Maulana Ardiansyah Allbum",
+			"title": "Maulana Ardiansyah - Ku Puja Puja (Live Ska Reggae)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/Maulana_Ardiansyah_Allbum_13.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 114,
+			"name_category": "Maulana Ardiansyah Allbum",
+			"title": "Cinta Terlarang - Kangen Band Cover by Maulana Ardiansyah",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/Maulana_Ardiansyah_Allbum_14.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 115,
+			"name_category": "Maulana Ardiansyah Allbum",
+			"title": "Maulana Ardiansyah - Aku Bukan Jodohnya (Live SKA REGGAE)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/Maulana_Ardiansyah_Allbum_2.mp3",
+			"duration": "382",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 116,
+			"name_category": "Maulana Ardiansyah Allbum",
+			"title": "Maulana Ardiansyah - Ayah Ku Kirimkan Do'a (Live Reggae)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/Maulana_Ardiansyah_Allbum_3.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 117,
+			"name_category": "Maulana Ardiansyah Allbum",
+			"title": "Maulana Ardiansyah - Cintaku | Dalam Sepiku Kaulah Candaku (Official Acoustic Version)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/Maulana_Ardiansyah_Allbum_4.mp3",
+			"duration": "291",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 118,
+			"name_category": "Maulana Ardiansyah Allbum",
+			"title": "Maulana Ardiansyah - Dalan Liyane (Live Ska Reggae)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/Maulana_Ardiansyah_Allbum_5.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 119,
+			"name_category": "Maulana Ardiansyah Allbum",
+			"title": "Maulana Ardiansyah - Duri Duri (Live Reggae)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/Maulana_Ardiansyah_Allbum_6.mp3",
+			"duration": "229",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 120,
+			"name_category": "Maulana Ardiansyah Allbum",
+			"title": "Maulana Ardiansyah - Lemah Teles ( Gusti Allah Sing Bales ) -  Live Reggae",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/Maulana_Ardiansyah_Allbum_7.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 121,
+			"name_category": "Maulana Ardiansyah Allbum",
+			"title": "Maulana Ardiansyah - Mencari Alasan (Live Reggae)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/Maulana_Ardiansyah_Allbum_8.mp3",
+			"duration": "328",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 122,
+			"name_category": "Maulana Ardiansyah Allbum",
+			"title": "Maulana Ardiansyah - Sia Sia Berjuang (Live Reggae)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Ardiansyah_Allbum/Maulana_Ardiansyah_Allbum_9.mp3",
+			"duration": "321",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 123,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (1)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_1.mp3",
+			"duration": "411",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 124,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (10)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_10.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 125,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (11)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_11.mp3",
+			"duration": "262",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 126,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (12)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_12.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 127,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (13)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_13.mp3",
+			"duration": "372",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 128,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (14)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_14.mp3",
+			"duration": "340",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 129,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (15)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_15.mp3",
+			"duration": "427",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 130,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (16)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_16.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 131,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (17)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_17.mp3",
+			"duration": "342",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 132,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (18)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_18.mp3",
+			"duration": "410",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 133,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (19)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_19.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 134,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (2)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_2.mp3",
+			"duration": "362",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 135,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (20)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_20.mp3",
+			"duration": "352",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 136,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (21)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_21.mp3",
+			"duration": "464",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 137,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (22)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_22.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 138,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (23)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_23.mp3",
+			"duration": "344",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 139,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (24)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_24.mp3",
+			"duration": "427",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 140,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (25)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_25.mp3",
+			"duration": "328",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 141,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (26)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_26.mp3",
+			"duration": "337",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 142,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (3)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_3.mp3",
+			"duration": "522",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 143,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (4)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_4.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 144,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (5)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_5.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 145,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (6)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_6.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 146,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (7)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_7.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 147,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (8)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_8.mp3",
+			"duration": "306",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 148,
+			"name_category": "Maulana Wijaya",
+			"title": "Maulana Wijaya (9)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.maulanaardiansyahdermagabiru/Maulana_Wijaya/Maulana_Wijaya_9.mp3",
+			"duration": "344",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
