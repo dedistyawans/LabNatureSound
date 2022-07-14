@@ -1,0 +1,2053 @@
+{
+	"ads":
+	{
+		"live_version_code": -1,
+		"init_ads_mode": "single",
+
+		"timeout_load": 15,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_1",
+		"banner_ad_identifier": "identifier_2",
+		"mrec_ad_identifier": "identifier_2",
+
+		"interval_awal": 2,
+
+		"kemungkinan_smatoo": 0,
+		"minimum_time_smatoo": 120,
+		"interval_smatoo": 5,
+		"smatoo_publisher_id": "-",
+		"smatoo_banner": "-",
+		"smatoo_mrec": "-",
+		"smatoo_inter": "-",
+		"smatoo_init_wait": true,
+		"smatoo_banner_on" : true,
+		"smatoo_mrec_on" : true,
+		"smatoo_splash_on" : true,
+		"smatoo_inter_on" : true,
+		"smatoo_must_live_playstore" : true,
+
+		"kemungkinan_appodeal": 0,
+		"minimum_time_appodeal": 120,
+		"interval_appodeal": 5,
+		"appodeal_app_key": "-",
+		"appodeal_init_wait": true,
+		"appodeal_banner_on" : true,
+		"appodeal_mrec_on" : true,
+		"appodeal_splash_on" : true,
+		"appodeal_inter_on" : true,
+		"appodeal_must_live_playstore" : true,
+
+		"kemungkinan_vungle": 0,
+		"minimum_time_vungle": 120,
+		"interval_vungle": 5,
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+		"vungle_init_wait": true,
+		"vungle_banner_on" : true,
+		"vungle_mrec_on" : true,
+		"vungle_splash_on" : true,
+		"vungle_inter_on" : true,
+		"vungle_must_live_playstore" : true,
+
+		"kemungkinan_iron": 0,
+		"minimum_time_iron": 120,
+		"interval_iron": 5,
+		"iron_appkey": "-",
+		"iron_init_wait": true,
+		"iron_banner_on" : false,
+		"iron_mrec_on" : false,
+		"iron_splash_on" : true,
+		"iron_inter_on" : true,
+		"iron_must_live_playstore" : true,
+
+		"kemungkinan_fan": 0,
+		"minimum_time_fan": 120,
+		"interval_fan": 5,
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+		"fan_init_wait": true,
+		"fan_banner_on" : true,
+		"fan_mrec_on" : true,
+		"fan_splash_on" : true,
+		"fan_inter_on" : true,
+		"fan_must_live_playstore" : true,
+
+		"kemungkinan_unity": 0,
+		"minimum_time_unity": 120,
+		"interval_unity": 5,
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+		"unity_init_wait": true,
+		"unity_banner_on" : true,
+		"unity_mrec_on" : true,
+		"unity_splash_on" : true,
+		"unity_inter_on" : true,
+		"unity_must_live_playstore" : true,
+
+		"kemungkinan_admob": 0,
+		"minimum_time_admob": 600,
+		"interval_admob": 5,
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+		"admob_init_wait": true,
+		"admob_banner_on" : true,
+		"admob_mrec_on" : true,
+		"admob_splash_on" : true,
+		"admob_inter_on" : true,
+		"admob_must_live_playstore" : true,
+
+		"kemungkinan_max": 0,
+		"minimum_time_max": 120,
+		"interval_max": 5,
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+		"max_init_wait": true,
+		"max_banner_on" : true,
+		"max_mrec_on" : true,
+		"max_splash_on" : true,
+		"max_inter_on" : true,
+		"max_must_live_playstore" : true,
+
+		"kemungkinan_startapp": 1,
+		"minimum_time_startapp": 0,
+		"interval_startapp": 5,
+		"startapp_id": "205960563",
+		"startapp_init_wait": true,
+		"startapp_banner_on" : true,
+		"startapp_mrec_on" : true,
+		"startapp_splash_on" : true,
+		"startapp_inter_on" : true,
+		"startapp_must_live_playstore" : true,
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "Koplo tasya rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "Lagu Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "Rosmala tasya dangdut",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg"
+		},
+		{
+			"id": 5,
+			"name_category": "Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg"
+		},
+		{
+			"id": 6,
+			"name_category": "Tasya Rosmala Mp3",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Haruskah Aku Mati",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_1.mp3",
+			"duration": "328",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Gerimis Melanda",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_10.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Masih Adakah Cinta",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_11.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Melepas Lajang",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_12.mp3",
+			"duration": "350",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Mengapa Dia",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_13.mp3",
+			"duration": "370",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Jang Ganggu",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_14.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Kabut Biru",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_15.mp3",
+			"duration": "350",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Keranda Cinta",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_16.mp3",
+			"duration": "310",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Langit Mendhung Kutho Ngawi",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_17.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Lemah Teles",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_18.mp3",
+			"duration": "297",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Luka Hati Luka Diri",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_19.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Akhir Sebuah Cerita",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_2.mp3",
+			"duration": "357",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Madiun Ngawi",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_20.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Senandung Rembulan",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_21.mp3",
+			"duration": "479",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Tak Sedalam Ini",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_22.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Titip CIntaku",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_23.mp3",
+			"duration": "372",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Tujh Mein Rab Dikhta Hai",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_24.mp3",
+			"duration": "324",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Tulang Rusuk",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_25.mp3",
+			"duration": "337",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Widodari",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_26.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Pecah Seribu",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_27.mp3",
+			"duration": "466",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Racun Asmara",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_28.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Rembulan Malam",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_29.mp3",
+			"duration": "295",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Aku Memang Jodohnya",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_3.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Seharusnya Aku",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_30.mp3",
+			"duration": "335",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Benci Kusangka Sayang",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_4.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Cinta Sampai Mati",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_5.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Dasi dan Gincu",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_6.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Emas Hantaran",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_7.mp3",
+			"duration": "338",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Gala gala",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_8.mp3",
+			"duration": "414",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "Tasya Dangdut Koplo Offline",
+			"title": "Gerhana Dalam Cinta",
+			"image": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Tasya_Dangdut_Koplo_Offline/tasya_dangdut_koplo_rosmala_9.mp3",
+			"duration": "360",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "Koplo tasya rosmala",
+			"title": "01.Ati Dudu Wesi-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/01.Ati_Dudu_Wesi-Dangdut_Koplo_Full.mp3",
+			"duration": "286",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "Koplo tasya rosmala",
+			"title": "02.Bagai Ranting Yang Kering-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/02.Bagai_Ranting_Yang_Kering-Dangdut_Koplo_Full.mp3",
+			"duration": "352",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "Koplo tasya rosmala",
+			"title": "03.Benci Kusangka Sayang-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/03.Benci_Kusangka_Sayang-Dangdut_Koplo_Full.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "Koplo tasya rosmala",
+			"title": "04.Benci-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/04.Benci-Dangdut_Koplo_Full.mp3",
+			"duration": "309",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "Koplo tasya rosmala",
+			"title": "05.Bersabarlah-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/05.Bersabarlah-Dangdut_Koplo_Full.mp3",
+			"duration": "298",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "Koplo tasya rosmala",
+			"title": "06.Dasi Dan Gincu-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/06.Dasi_Dan_Gincu-Dangdut_Koplo_Full.mp3",
+			"duration": "46",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "Koplo tasya rosmala",
+			"title": "07.Dinding Kaca-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/07.Dinding_Kaca-Dangdut_Koplo_Full.mp3",
+			"duration": "386",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "Koplo tasya rosmala",
+			"title": "08.Duri Duri-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/08.Duri_Duri-Dangdut_Koplo_Full.mp3",
+			"duration": "381",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "Koplo tasya rosmala",
+			"title": "09.Hadirmu Bagai Mimpi-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/09.Hadirmu_Bagai_Mimpi-Dangdut_Koplo_Full.mp3",
+			"duration": "529",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "Koplo tasya rosmala",
+			"title": "10.Haruskah Aku Mati-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/10.Haruskah_Aku_Mati-Dangdut_Koplo_Full.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "Koplo tasya rosmala",
+			"title": "11.Hitam Bukan Putih-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/11.Hitam_Bukan_Putih-Dangdut_Koplo_Full.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "Koplo tasya rosmala",
+			"title": "12.Isyarat Cinta-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/12.Isyarat_Cinta-Dangdut_Koplo_Full.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "Koplo tasya rosmala",
+			"title": "13.Izinkan-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/13.Izinkan-Dangdut_Koplo_Full.mp3",
+			"duration": "360",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "Koplo tasya rosmala",
+			"title": "14.Jamu Pegel Mlarat-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/14.Jamu_Pegel_Mlarat-Dangdut_Koplo_Full.mp3",
+			"duration": "436",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "Koplo tasya rosmala",
+			"title": "15.Kandas-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/15.Kandas-Dangdut_Koplo_Full.mp3",
+			"duration": "292",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "Koplo tasya rosmala",
+			"title": "16.Kasmaran-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/16.Kasmaran-Dangdut_Koplo_Full.mp3",
+			"duration": "439",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "Koplo tasya rosmala",
+			"title": "17.Kasta Cinta-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/17.Kasta_Cinta-Dangdut_Koplo_Full.mp3",
+			"duration": "369",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "Koplo tasya rosmala",
+			"title": "18.Kehadiran Cinta-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/18.Kehadiran_Cinta-Dangdut_Koplo_Full.mp3",
+			"duration": "442",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "Koplo tasya rosmala",
+			"title": "19.Keranda Cinta-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/19.Keranda_Cinta-Dangdut_Koplo_Full.mp3",
+			"duration": "311",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "Koplo tasya rosmala",
+			"title": "20.Kulepas Dengan Ikhlas-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/20.Kulepas_Dengan_Ikhlas-Dangdut_Koplo_Full.mp3",
+			"duration": "767",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "Koplo tasya rosmala",
+			"title": "21.Lemah Teles-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/21.Lemah_Teles-Dangdut_Koplo_Full.mp3",
+			"duration": "294",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "Koplo tasya rosmala",
+			"title": "22.Luka Hati Luka Diri-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/22.Luka_Hati_Luka_Diri-Dangdut_Koplo_Full.mp3",
+			"duration": "438",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "Koplo tasya rosmala",
+			"title": "23.Mahal-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/23.Mahal-Dangdut_Koplo_Full.mp3",
+			"duration": "393",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "Koplo tasya rosmala",
+			"title": "24.Mengejar Badai-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/24.Mengejar_Badai-Dangdut_Koplo_Full.mp3",
+			"duration": "371",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "Koplo tasya rosmala",
+			"title": "25.Merindu-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/25.Merindu-Dangdut_Koplo_Full.mp3",
+			"duration": "321",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "Koplo tasya rosmala",
+			"title": "26.Prasasti Cinta-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/26.Prasasti_Cinta-Dangdut_Koplo_Full.mp3",
+			"duration": "436",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "Koplo tasya rosmala",
+			"title": "27.Purnama Merindu-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/27.Purnama_Merindu-Dangdut_Koplo_Full.mp3",
+			"duration": "323",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "Koplo tasya rosmala",
+			"title": "28.Rembulan Malam-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/28.Rembulan_Malam-Dangdut_Koplo_Full.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "Koplo tasya rosmala",
+			"title": "29.Selimut Biru-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/29.Selimut_Biru-Dangdut_Koplo_Full.mp3",
+			"duration": "413",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "Koplo tasya rosmala",
+			"title": "30.Senandung Rembulan-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/30.Senandung_Rembulan-Dangdut_Koplo_Full.mp3",
+			"duration": "383",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "Koplo tasya rosmala",
+			"title": "31.Setia Untukmu Selamanya-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/31.Setia_Untukmu_Selamanya-Dangdut_Koplo_Full.mp3",
+			"duration": "391",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "Koplo tasya rosmala",
+			"title": "32.Sumpah Benang Emas-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/32.Sumpah_Benang_Emas-Dangdut_Koplo_Full.mp3",
+			"duration": "412",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "Koplo tasya rosmala",
+			"title": "33.Tak Berdaya-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/33.Tak_Berdaya-Dangdut_Koplo_Full.mp3",
+			"duration": "359",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "Koplo tasya rosmala",
+			"title": "34.Tak Sedalam Ini-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/34.Tak_Sedalam_Ini-Dangdut_Koplo_Full.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "Koplo tasya rosmala",
+			"title": "35.Tatu-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/35.Tatu-Dangdut_Koplo_Full.mp3",
+			"duration": "302",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "Koplo tasya rosmala",
+			"title": "36.Terlena-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/36.Terlena-Dangdut_Koplo_Full.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "Koplo tasya rosmala",
+			"title": "37.Tiada Guna-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/37.Tiada_Guna-Dangdut_Koplo_Full.mp3",
+			"duration": "528",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "Koplo tasya rosmala",
+			"title": "38.Tulang Rusuk-Dangdut Koplo Full",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Koplo_tasya_rosmala/38.Tulang_Rusuk-Dangdut_Koplo_Full.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "01 Terbelenggu - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/01_Terbelenggu_-_Tasya_Rosmala.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "02 Mahal - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/02_Mahal_-_Tasya_Rosmala.mp3",
+			"duration": "396",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "03 Tiada Guna - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/03_Tiada_Guna_-_Tasya_Rosmala.mp3",
+			"duration": "521",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "04 Benci - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/04_Benci_-_Tasya_Rosmala.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "05 Bimbang - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/05_Bimbang_-_Tasya_Rosmala.mp3",
+			"duration": "446",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "06 Goyah - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/06_Goyah_-_Tasya_Rosmala.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "07 Hitam Bukan Putih - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/07_Hitam_Bukan_Putih_-_Tasya_Rosmala.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "08 Izinkan - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/08_Izinkan_-_Tasya_Rosmala.mp3",
+			"duration": "355",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "09 Kasmaran - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/09_Kasmaran_-_Tasya_Rosmala.mp3",
+			"duration": "438",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "10 Keranda Cinta - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/10_Keranda_Cinta_-_Tasya_Rosmala.mp3",
+			"duration": "311",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "11 Mengejar Badai - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/11_Mengejar_Badai_-_Tasya_Rosmala.mp3",
+			"duration": "352",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "12 Selimut Biru - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/12_Selimut_Biru_-_Tasya_Rosmala.mp3",
+			"duration": "413",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "13 Sumpah Benang Emas - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/13_Sumpah_Benang_Emas_-_Tasya_Rosmala.mp3",
+			"duration": "374",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "14 Terlena - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/14_Terlena_-_Tasya_Rosmala.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "15 Aku Bukan Jodohnya - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/15_Aku_Bukan_Jodohnya_-_Tasya_Rosmala.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "16 Titip Cinta - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/16_Titip_Cinta_-_Tasya_Rosmala.mp3",
+			"duration": "625",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "17 Tak Harus Memiliki - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/17_Tak_Harus_Memiliki_-_Tasya_Rosmala.mp3",
+			"duration": "336",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "18 Gerimis Melanda Hati - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/18_Gerimis_Melanda_Hati_-_Tasya_Rosmala.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "19 Duri Duri - Tasya Rosmala ft Ageng Music",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/19_Duri_Duri_-_Tasya_Rosmala_ft_Ageng_Music.mp3",
+			"duration": "381",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "20 Merindu - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/20_Merindu_-_Tasya_Rosmala.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "21 Bawa Aku Ke Penghulu - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/21_Bawa_Aku_Ke_Penghulu_-_Tasya_Rosmala.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "22 Kenangan - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/22_Kenangan_-_Tasya_Rosmala.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "23 Ada Rindu - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/23_Ada_Rindu_-_Tasya_Rosmala.mp3",
+			"duration": "289",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "24 Setia Untukmu Selamanya -Tasya Rosmala feat Fendik",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/24_Setia_Untukmu_Selamanya_-Tasya_Rosmala_feat_Fendik.mp3",
+			"duration": "391",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "25 Kandas - Tasya Rosmala ft Brodin",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/25_Kandas_-_Tasya_Rosmala_ft_Brodin.mp3",
+			"duration": "292",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "26 Jamu Pegel Mlarat - Tasya Rosmala ft Brodin",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/26_Jamu_Pegel_Mlarat_-_Tasya_Rosmala_ft_Brodin.mp3",
+			"duration": "436",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "27 Isyarat Cinta - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/27_Isyarat_Cinta_-_Tasya_Rosmala.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "28 Kau Tetap Kusayang - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/28_Kau_Tetap_Kusayang_-_Tasya_Rosmala.mp3",
+			"duration": "458",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "29 Top Topan - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/29_Top_Topan_-_Tasya_Rosmala.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "30 Pingal - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/30_Pingal_-_Tasya_Rosmala.mp3",
+			"duration": "301",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "31 Wes Oleh Ganti - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/31_Wes_Oleh_Ganti_-_Tasya_Rosmala.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "Lagu Tasya Rosmala",
+			"title": "32 Dasi Dan Gincu - Tasya Rosmala ft Brodin",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Lagu_Tasya_Rosmala/32_Dasi_Dan_Gincu_-_Tasya_Rosmala_ft_Brodin.mp3",
+			"duration": "46",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 101,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "01 Bagai Ranting Yang Kering - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/01_Bagai_Ranting_Yang_Kering_-_Tasya_Rosmala.mp3",
+			"duration": "355",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 102,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "02 Akhir Sebuah Cerita - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/02_Akhir_Sebuah_Cerita_-_Tasya_Rosmala.mp3",
+			"duration": "358",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 103,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "03 Pecah Seribu - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/03_Pecah_Seribu_-_Tasya_Rosmala.mp3",
+			"duration": "477",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 104,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "04 Tabir Kepalsuan - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/04_Tabir_Kepalsuan_-_Tasya_Rosmala.mp3",
+			"duration": "290",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 105,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "05 Tak Sedalam Ini - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/05_Tak_Sedalam_Ini_-_Tasya_Rosmala.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 106,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "06 Birunya Cinta - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/06_Birunya_Cinta_-_Tasya_Rosmala.mp3",
+			"duration": "497",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 107,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "07 Gerimis Melanda Hati - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/07_Gerimis_Melanda_Hati_-_Tasya_Rosmala.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 108,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "08 Sumpah Benang Emas - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/08_Sumpah_Benang_Emas_-_Tasya_Rosmala.mp3",
+			"duration": "405",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 109,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "09 Purnama Merindu - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/09_Purnama_Merindu_-_Tasya_Rosmala.mp3",
+			"duration": "324",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 110,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "10 Benci Kusangka Sayang - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/10_Benci_Kusangka_Sayang_-_Tasya_Rosmala.mp3",
+			"duration": "323",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 111,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "11 Mawar Putih - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/11_Mawar_Putih_-_Tasya_Rosmala.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 112,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "12 Pingal - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/12_Pingal_-_Tasya_Rosmala.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 113,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "13 Rembulan Malam - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/13_Rembulan_Malam_-_Tasya_Rosmala.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 114,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "14 Doa Suci - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/14_Doa_Suci_-_Tasya_Rosmala.mp3",
+			"duration": "463",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 115,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "15 Tulang Rusuk - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/15_Tulang_Rusuk_-_Tasya_Rosmala.mp3",
+			"duration": "338",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 116,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "16 Melepas Lajang - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/16_Melepas_Lajang_-_Tasya_Rosmala.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 117,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "17 Mengejar Badai - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/17_Mengejar_Badai_-_Tasya_Rosmala.mp3",
+			"duration": "369",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 118,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "18 Aku Dilahirkan Untuk Siapa - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/18_Aku_Dilahirkan_Untuk_Siapa_-_Tasya_Rosmala.mp3",
+			"duration": "543",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 119,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "19 Hadirmu Bagai Mimpi - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/19_Hadirmu_Bagai_Mimpi_-_Tasya_Rosmala.mp3",
+			"duration": "380",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 120,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "20 Engkaulah Takdirku - Tasya Rosmala ft Gerry Mahesa",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/20_Engkaulah_Takdirku_-_Tasya_Rosmala_ft_Gerry_Mahesa.mp3",
+			"duration": "283",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 121,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "21 Bidadari Cinta - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/21_Bidadari_Cinta_-_Tasya_Rosmala.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 122,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "22 Tak Berdaya - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/22_Tak_Berdaya_-_Tasya_Rosmala.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 123,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "23 Kehadiran Cinta - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/23_Kehadiran_Cinta_-_Tasya_Rosmala.mp3",
+			"duration": "443",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 124,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "24 Dinding Kaca - Tasya Rosmala ft Gerry Mahesa",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/24_Dinding_Kaca_-_Tasya_Rosmala_ft_Gerry_Mahesa.mp3",
+			"duration": "387",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 125,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "25 Janji - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/25_Janji_-_Tasya_Rosmala.mp3",
+			"duration": "370",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 126,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "26 Bila Nanti - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/26_Bila_Nanti_-_Tasya_Rosmala.mp3",
+			"duration": "274",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 127,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "27 Cintaku Satu - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/27_Cintaku_Satu_-_Tasya_Rosmala.mp3",
+			"duration": "378",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 128,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "28 Hati Siapa Tak Luka - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/28_Hati_Siapa_Tak_Luka_-_Tasya_Rosmala.mp3",
+			"duration": "321",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 129,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "29 Nyanyian Rindu - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/29_Nyanyian_Rindu_-_Tasya_Rosmala.mp3",
+			"duration": "373",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 130,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "30 Terlalu Rindu - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/30_Terlalu_Rindu_-_Tasya_Rosmala.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 131,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "31 Terbelenggu - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/31_Terbelenggu_-_Tasya_Rosmala.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 132,
+			"name_category": "Rosmala tasya dangdut",
+			"title": "32 Dalan Anyar - Tasya Rosmala",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Rosmala_tasya_dangdut/32_Dalan_Anyar_-_Tasya_Rosmala.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 133,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 1",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_1.mp3",
+			"duration": "295",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 134,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 10",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_10.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 135,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 11",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_11.mp3",
+			"duration": "328",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 136,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 12",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_12.mp3",
+			"duration": "280",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 137,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 13",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_13.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 138,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 14",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_14.mp3",
+			"duration": "370",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 139,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 15",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_15.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 140,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 16",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_16.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 141,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 17",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_17.mp3",
+			"duration": "372",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 142,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 18",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_18.mp3",
+			"duration": "479",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 143,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 19",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_19.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 144,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 2",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_2.mp3",
+			"duration": "360",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 145,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 20",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_20.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 146,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 21",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_21.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 147,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 22",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_22.mp3",
+			"duration": "335",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 148,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 23",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_23.mp3",
+			"duration": "350",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 149,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 24",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_24.mp3",
+			"duration": "287",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 150,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 25",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_25.mp3",
+			"duration": "297",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 151,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 26",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_26.mp3",
+			"duration": "338",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 152,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 27",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_27.mp3",
+			"duration": "324",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 153,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 28",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_28.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 154,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 29",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_29.mp3",
+			"duration": "357",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 155,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 3",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_3.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 156,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 30",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_30.mp3",
+			"duration": "337",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 157,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 4",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_4.mp3",
+			"duration": "310",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 158,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 5",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_5.mp3",
+			"duration": "414",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 159,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 6",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_6.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 160,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 7",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_7.mp3",
+			"duration": "350",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 161,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 8",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_8.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 162,
+			"name_category": "Tasya Rosmala",
+			"title": "Tasya Rosmala 9",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala/Tasya_Rosmala_9.mp3",
+			"duration": "466",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 163,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (1)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_1.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 164,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (10)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_10.mp3",
+			"duration": "450",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 165,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (11)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_11.mp3",
+			"duration": "544",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 166,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (12)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_12.mp3",
+			"duration": "424",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 167,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (13)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_13.mp3",
+			"duration": "363",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 168,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (14)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_14.mp3",
+			"duration": "463",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 169,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (15)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_15.mp3",
+			"duration": "445",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 170,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (16)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_16.mp3",
+			"duration": "413",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 171,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (17)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_17.mp3",
+			"duration": "338",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 172,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (18)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_18.mp3",
+			"duration": "497",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 173,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (19)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_19.mp3",
+			"duration": "378",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 174,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (2)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_2.mp3",
+			"duration": "404",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 175,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (20)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_20.mp3",
+			"duration": "409",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 176,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (21)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_21.mp3",
+			"duration": "434",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 177,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (22)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_22.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 178,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (23)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_23.mp3",
+			"duration": "379",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 179,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (24)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_24.mp3",
+			"duration": "297",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 180,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (25)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_25.mp3",
+			"duration": "358",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 181,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (26)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_26.mp3",
+			"duration": "444",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 182,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (27)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_27.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 183,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (28)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_28.mp3",
+			"duration": "324",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 184,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (29)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_29.mp3",
+			"duration": "335",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 185,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (3)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_3.mp3",
+			"duration": "392",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 186,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (30)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_30.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 187,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (31)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_31.mp3",
+			"duration": "271",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 188,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (32)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_32.mp3",
+			"duration": "323",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 189,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (33)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_33.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 190,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (34)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_34.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 191,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (35)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_35.mp3",
+			"duration": "297",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 192,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (36)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_36.mp3",
+			"duration": "421",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 193,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (37)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_37.mp3",
+			"duration": "375",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 194,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (38)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_38.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 195,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (39)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_39.mp3",
+			"duration": "312",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 196,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (4)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_4.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 197,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (40)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_40.mp3",
+			"duration": "372",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 198,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (41)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_41.mp3",
+			"duration": "373",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 199,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (42)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_42.mp3",
+			"duration": "411",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 200,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (43)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_43.mp3",
+			"duration": "385",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 201,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (44)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_44.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 202,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (45)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_45.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 203,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (46)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_46.mp3",
+			"duration": "372",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 204,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (47)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_47.mp3",
+			"duration": "338",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 205,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (5)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_5.mp3",
+			"duration": "348",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 206,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (6)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_6.mp3",
+			"duration": "323",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 207,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (7)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_7.mp3",
+			"duration": "411",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 208,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (8)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_8.mp3",
+			"duration": "406",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 209,
+			"name_category": "Tasya Rosmala Mp3",
+			"title": "Tasya Rosmala (9)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.tasyarosmalaofflinedangdut/Tasya_Rosmala_Mp3/Tasya_Rosmala_9.mp3",
+			"duration": "412",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+}
