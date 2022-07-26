@@ -1,0 +1,1809 @@
+{
+	"ads": {
+		"live_version_code": -1,
+		"init_ads_mode": "single",
+
+		"interstitial_type": "lap",
+		"interval_las": 5,
+
+		"timeout_load": 18,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"mrec_ad_identifier": "identifier_4",
+
+		"interval_awal": 5,
+
+		"kemungkinan_smatoo": 0,
+		"minimum_time_smatoo": 120,
+		"interval_smatoo": 5,
+		"smatoo_publisher_id": "-",
+		"smatoo_banner": "-",
+		"smatoo_mrec": "-",
+		"smatoo_inter": "-",
+		"smatoo_init_wait": true,
+		"smatoo_banner_on" : true,
+		"smatoo_mrec_on" : true,
+		"smatoo_splash_on" : true,
+		"smatoo_inter_on" : true,
+		"smatoo_must_live_playstore" : true,
+
+		"kemungkinan_appodeal": 0,
+		"minimum_time_appodeal": 120,
+		"interval_appodeal": 5,
+		"appodeal_app_key": "-",
+		"appodeal_init_wait": true,
+		"appodeal_banner_on" : true,
+		"appodeal_mrec_on" : true,
+		"appodeal_splash_on" : true,
+		"appodeal_inter_on" : true,
+		"appodeal_must_live_playstore" : true,
+
+		"kemungkinan_vungle": 0,
+		"minimum_time_vungle": 120,
+		"interval_vungle": 5,
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+		"vungle_init_wait": true,
+		"vungle_banner_on" : true,
+		"vungle_mrec_on" : true,
+		"vungle_splash_on" : true,
+		"vungle_inter_on" : true,
+		"vungle_must_live_playstore" : true,
+
+		"kemungkinan_iron": 0,
+		"minimum_time_iron": 120,
+		"interval_iron": 5,
+		"iron_appkey": "-",
+		"iron_init_wait": true,
+		"iron_banner_on" : false,
+		"iron_mrec_on" : false,
+		"iron_splash_on" : true,
+		"iron_inter_on" : true,
+		"iron_must_live_playstore" : true,
+
+		"kemungkinan_fan": 0,
+		"minimum_time_fan": 120,
+		"interval_fan": 5,
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+		"fan_init_wait": true,
+		"fan_banner_on" : true,
+		"fan_mrec_on" : true,
+		"fan_splash_on" : true,
+		"fan_inter_on" : true,
+		"fan_must_live_playstore" : true,
+
+		"kemungkinan_unity": 0,
+		"minimum_time_unity": 120,
+		"interval_unity": 5,
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+		"unity_init_wait": true,
+		"unity_banner_on" : true,
+		"unity_mrec_on" : true,
+		"unity_splash_on" : true,
+		"unity_inter_on" : true,
+		"unity_must_live_playstore" : true,
+
+		"kemungkinan_admob": 0,
+		"minimum_time_admob": 300,
+		"interval_admob": 5,
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+		"admob_init_wait": true,
+		"admob_banner_on" : true,
+		"admob_mrec_on" : true,
+		"admob_splash_on" : true,
+		"admob_inter_on" : true,
+		"admob_must_live_playstore" : true,
+
+		"kemungkinan_max": 0,
+		"minimum_time_max": 120,
+		"interval_max": 5,
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+		"max_init_wait": true,
+		"max_banner_on" : true,
+		"max_mrec_on" : true,
+		"max_splash_on" : true,
+		"max_inter_on" : true,
+		"max_must_live_playstore" : true,
+
+		"kemungkinan_startapp": 1,
+		"minimum_time_startapp": 0,
+		"interval_startapp": 5,
+		"startapp_id": "205960563",
+		"startapp_init_wait": true,
+		"startapp_banner_on" : true,
+		"startapp_mrec_on" : true,
+		"startapp_splash_on" : true,
+		"startapp_inter_on" : true,
+		"startapp_must_live_playstore" : true,
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "Dj Angel Baby Remix",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ Harga diri ku Remix",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg"
+		},
+		{
+			"id": 5,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ POK AMAI AMAI BELALANG KUPU KUPU VIRAL",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_1.mp3",
+			"duration": "269",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ SAKITNYA TUH DI SINI X CHORI SONIA (DJ TERBANG)",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_2.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ SIKOK BAGI DUO _ BASS BETON REMIX VIRAL",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_3.mp3",
+			"duration": "348",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ SOPAN GORENG GORENG",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_4.mp3",
+			"duration": "326",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ SUDAH TAK CINTA VIRAL",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_5.mp3",
+			"duration": "348",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ TAK SAWANG SAWANG KOWE GANTENG TENAN",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_6.mp3",
+			"duration": "338",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ YA CUMA KAMU VIRAL",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_7.mp3",
+			"duration": "187",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ KUBERLAYAR DI LAUTAN TIDAK BERTEPIAN",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_8.mp3",
+			"duration": "357",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ LINTING DAUN - PARGOY DAUN VIRAL",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_9.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ LO MATI GUA PARTY X SAMPE BAWAH",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_10.mp3",
+			"duration": "338",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ MAN DOWN MAN DOWN - RIP LOVE FAOUZIA",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_11.mp3",
+			"duration": "346",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ MENEKETEHE KALAU KAMU SUKA VIRAL",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_12.mp3",
+			"duration": "323",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ TRUMPET NARCO",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_13.mp3",
+			"duration": "236",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ SIKOK BAGI DUO",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_14.mp3",
+			"duration": "233",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ PAK WONG WONG REMIX",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_15.mp3",
+			"duration": "380",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ KAMU CANTIK TAPI SANA SINI MAU SLEBEWW",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_16.mp3",
+			"duration": "229",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ OVERDOSIS RUMAH SAKIT",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_17.mp3",
+			"duration": "382",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ ULAR V3 MENGKANE",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_18.mp3",
+			"duration": "256",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ MI GENTE X SAMPAI BAWAH",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_19.mp3",
+			"duration": "241",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ RIP LOVE FAOUZIA",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_20.mp3",
+			"duration": "350",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ POK AME AME BELALANG KUPU KUPU",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_21.mp3",
+			"duration": "312",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ TOXIC FRIENDS SLOW",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_22.mp3",
+			"duration": "181",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ I WANNA FEEL LIKE",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_23.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ Malam Ini Tangkis Dang",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_24.mp3",
+			"duration": "251",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ ANGEL BABY JEDAG JEDUG",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_25.mp3",
+			"duration": "264",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ DO YOU LIKE A TRUCK",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_26.mp3",
+			"duration": "244",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ MENIMISU X AKON RIGHT NOW",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_27.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "Dj Ghost Jedag Jedug",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_28.mp3",
+			"duration": "227",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "Dj beautiful girl",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_29.mp3",
+			"duration": "250",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ DALAMO DALAMO",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_30.mp3",
+			"duration": "335",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ CINTA SAMPAI MATI",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_31.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ DEAR DIARY",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_32.mp3",
+			"duration": "378",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ Dermaga Biru",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_33.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ HANYA SATU PERSINGGAHAN",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_34.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "Dj harga diriku - Wali Band",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_35.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "DJ KU BERLAYAR DI LAUTAN TIDAK BERTEPIAN",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_36.mp3",
+			"duration": "352",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "DJ Sikok Bagi Duo Offline",
+			"title": "Dj peluk cium peluk cium bolak balik",
+			"image": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/DJ_Sikok_Bagi_Duo_Offline/DJ_Sikok_Bagi_Duo_Offline_37.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ ANGEL BABY",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_1.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ ANU REMON SAKIT LAGI X YOU AND I",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_2.mp3",
+			"duration": "173",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ BEAUTIFUL GIRL",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_3.mp3",
+			"duration": "228",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ CALL ME BABY",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_4.mp3",
+			"duration": "210",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ CINTA SAMPAI MATI",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_5.mp3",
+			"duration": "294",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ DALAMO DALAMO REMIX",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_6.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ DEAR DIARY KU INGIN BERCERITA",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_7.mp3",
+			"duration": "292",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ DENTING",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_8.mp3",
+			"duration": "274",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ DOTA X BASTA BOI",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_9.mp3",
+			"duration": "381",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ GHOST JEDAG JEDUG DJ KOMANG",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_10.mp3",
+			"duration": "223",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ ACA ACA NEHI NEHI",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_11.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ AJARKAN AKU DJ TERLUKA TAPI TAK BERDARAH",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_12.mp3",
+			"duration": "341",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ BUKAN SEKALI KAMU BUAT BEGINI",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_13.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ BURUNG PUYUH BURUNG KETUT DI MAKAN BIAWAK",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_14.mp3",
+			"duration": "296",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ INILAH AKU RAJA MEXICO",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_15.mp3",
+			"duration": "304",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ KNOW ME TOO WELL",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_16.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ LOVE TONIGHT ENGKOL",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_17.mp3",
+			"duration": "297",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ MATI MATIAN AKU MENCINTAIMU",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_18.mp3",
+			"duration": "229",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ MENIMISU X ANU REMON",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_19.mp3",
+			"duration": "289",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ MONTAGE REBORN",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_20.mp3",
+			"duration": "318",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ LAGI LAGI KU NGAK BISA TIDUR",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_21.mp3",
+			"duration": "335",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ PECAH SERIBU",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_22.mp3",
+			"duration": "374",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ POK AME AME BELALANG KUPU KUPU",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_23.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ SANAM RE",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_24.mp3",
+			"duration": "229",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ SOMETHING JUST LIKE THIS",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_25.mp3",
+			"duration": "223",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ SORRY SLOW BASS",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_26.mp3",
+			"duration": "384",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ TEENAGE MONALISA",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_27.mp3",
+			"duration": "334",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ TEHIBA TEHI",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_28.mp3",
+			"duration": "346",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ VAKSIN CINTA",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_29.mp3",
+			"duration": "246",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ RIP LOVE FAOUZIA",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_30.mp3",
+			"duration": "346",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "Dj Angel Baby Remix",
+			"title": "DJ AKU TITIPKAN DIA LANJUTKAN PERJUANGANKU",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Dj_Angel_Baby_Remix/Dj_Angel_Baby_Remix_31.mp3",
+			"duration": "380",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 1",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_1.mp3",
+			"duration": "273",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 2",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_2.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 3",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_3.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 4",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_4.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 5",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_5.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 6",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_6.mp3",
+			"duration": "273",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 7",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_7.mp3",
+			"duration": "237",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 8",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_8.mp3",
+			"duration": "284",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 9",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_9.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 10",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_10.mp3",
+			"duration": "291",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 11",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_11.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 12",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_12.mp3",
+			"duration": "193",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 13",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_13.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 14",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_14.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 15",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_15.mp3",
+			"duration": "184",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 16",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_16.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 17",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_17.mp3",
+			"duration": "206",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 18",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_18.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 19",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_19.mp3",
+			"duration": "265",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 20",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_20.mp3",
+			"duration": "247",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 21",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_21.mp3",
+			"duration": "262",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 22",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_22.mp3",
+			"duration": "250",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 23",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_23.mp3",
+			"duration": "240",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 24",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_24.mp3",
+			"duration": "260",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 25",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_25.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 26",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_26.mp3",
+			"duration": "255",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 27",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_27.mp3",
+			"duration": "227",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 28",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_28.mp3",
+			"duration": "244",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 29",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_29.mp3",
+			"duration": "223",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 30",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_30.mp3",
+			"duration": "261",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 31",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_31.mp3",
+			"duration": "248",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 32",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_32.mp3",
+			"duration": "274",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 101,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 33",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_33.mp3",
+			"duration": "238",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 102,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 34",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_34.mp3",
+			"duration": "242",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 103,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 35",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_35.mp3",
+			"duration": "248",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 104,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 36",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_36.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 105,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 37",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_37.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 106,
+			"name_category": "DJ Harga diri ku Remix",
+			"title": "DJ Harga diri ku Remix 38",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Harga_diri_ku_Remix/DJ_Harga_diri_ku_Remix_38.mp3",
+			"duration": "274",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 107,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ OJO DIBANDING BANDINGKE WONG KO NGENE_ABAH & DENNY",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_1.mp3",
+			"duration": "401",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 108,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ PAK PONG VONG THAI REMIX VIRAL",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_2.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 109,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ PECAH SERIBU - HANYA DIA YANG ADA DI ANTARA JANTUNG HATI VIRAL",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_3.mp3",
+			"duration": "388",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 110,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ MENGAPA MUDAHNYA HATIMU MENDUA",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_4.mp3",
+			"duration": "334",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 111,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ AKU YANG MALANG X TOCANA PISTA MENGKANE",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_5.mp3",
+			"duration": "282",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 112,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ ANGEL BEBY JEDAG JEDUG FULBEAT VIRAL",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_6.mp3",
+			"duration": "263",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 113,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ APA KABAR SAYANG REMIX",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_7.mp3",
+			"duration": "324",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 114,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ BENANG BIRU - WALAUPUN AKU KALAH DI DALAM PERCINTAAN.",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_8.mp3",
+			"duration": "387",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 115,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ BILA KAMU TAK LAGI DENGANKU_HARGA DIRI",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_9.mp3",
+			"duration": "349",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 116,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ BISITA HARI TAM TAM SLOW BASS X UBUR UBUR IKAN LELE",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_10.mp3",
+			"duration": "256",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 117,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ BREAKBEAT BANG JONO KKN VIRAL",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_11.mp3",
+			"duration": "349",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 118,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ CINTA SAMPAI MATI - DJ DENGARKANLAH SEPANJANG JALAN AKU BERDOA",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_12.mp3",
+			"duration": "296",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 119,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ CINTAKU - DALAM SEPIKU KAULAH CANDAKU",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_13.mp3",
+			"duration": "321",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 120,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ DEAR DIARY KU INGIN BERCERITA - REMIX SLOW VIRAL",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_14.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 121,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ DIA GADIS BERKERUDUNG MERAH - KEKASIH HALAL",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_15.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 122,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ HANYA SATU PERSINGGAHAN",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_16.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 123,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ JANGAN CINTAI AKU LAGI",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_17.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 124,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ JEDER JEDER X MILSAKE VIRAL FULBASS",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_18.mp3",
+			"duration": "258",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 125,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ JIKA KAU MERASA AKU BEGINI_RAFFA",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_19.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 126,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ JOKO TINGKIR NGOMBE DAWET STYLE THAI",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_20.mp3",
+			"duration": "337",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 127,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ SUDAH TAK CINTA",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_21.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 128,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ Tiara Raffa Affar",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_22.mp3",
+			"duration": "341",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 129,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ OH INDAH HIDUPKU SAAT BERSAMAMU",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_23.mp3",
+			"duration": "293",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 130,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ Dia Gadis Berkerudung Merah",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_24.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 131,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ Ya Cuman Kamu",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_25.mp3",
+			"duration": "216",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 132,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ BANG JONO X KKN DESA PENARI REMIX",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_26.mp3",
+			"duration": "364",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 133,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ Dalam Sepiku Kaulah Candaku",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_27.mp3",
+			"duration": "255",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 134,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ SELALU TERSIMPAN ZIDAN",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_28.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 135,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ Joko Tingkir Ngombe Dawet",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_29.mp3",
+			"duration": "343",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 136,
+			"name_category": "DJ Sikok bagi Duo Bass beton",
+			"title": "DJ Jawa Ngamen 5 Slow",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/DJ_Sikok_bagi_Duo_Bass_beton/DJ_Sikok_bagi_Duo_Bass_beton_30.mp3",
+			"duration": "197",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 137,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Aca Aca Nehi Nehi",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Aca_Aca_Nehi_Nehi.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 138,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Aku Jadi Merana",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Aku_Jadi_Merana.mp3",
+			"duration": "270",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 139,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Always Loving You BB OLD",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Always_Loving_You_BB_OLD.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 140,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Angin Datang Kasih Kabar",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Angin_Datang_Kasih_Kabar.mp3",
+			"duration": "310",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 141,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ BIAR GENDUT TETAP KU CINTA HAPPY ASMARA FULL BASS REMIX",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_BIAR_GENDUT_TETAP_KU_CINTA_HAPPY_ASMARA_FULL_BASS_REMIX.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 142,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Bila aku Tututu Jedag Jedug",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Bila_aku_Tututu_Jedag_Jedug.mp3",
+			"duration": "149",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 143,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ BoyBand Jedag Jedug",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_BoyBand_Jedag_Jedug.mp3",
+			"duration": "318",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 144,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ CINTA SAMPAI MATI REMIX VIRAL",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_CINTA_SAMPAI_MATI_REMIX_VIRAL.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 145,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ CloudBread Remix",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_CloudBread_Remix.mp3",
+			"duration": "250",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 146,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Dari yang Muda X Keringetan Pala ku",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Dari_yang_Muda_X_Keringetan_Pala_ku.mp3",
+			"duration": "533",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 147,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Daylamo Viral",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Daylamo_Viral.mp3",
+			"duration": "192",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 148,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Ditinggalin Okelah Dicuekin Gapapa",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Ditinggalin_Okelah_Dicuekin_Gapapa.mp3",
+			"duration": "311",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 149,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Gambaran Hati Mix",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Gambaran_Hati_Mix.mp3",
+			"duration": "446",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 150,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "Dj Ghost Jedag Jedug Full Beat",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/Dj_Ghost_Jedag_Jedug_Full_Beat.mp3",
+			"duration": "228",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 151,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ GODZILLA SLOW REMIX VIRAL -  IM THE GIRL FOR GODZILLA",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_GODZILLA_SLOW_REMIX_VIRAL_-__IM_THE_GIRL_FOR_GODZILLA.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 152,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ HATI HATI DI JALAN TULUS",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_HATI_HATI_DI_JALAN_TULUS.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 153,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Heartbreak Anniversary x Bukan sekali kau buat begini",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Heartbreak_Anniversary_x_Bukan_sekali_kau_buat_begini.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 154,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Heat Waves Jedag Jedug",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Heat_Waves_Jedag_Jedug.mp3",
+			"duration": "239",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 155,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Hum Tere Remix",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Hum_Tere_Remix.mp3",
+			"duration": "386",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 156,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ In Da Getho",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_In_Da_Getho.mp3",
+			"duration": "292",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 157,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Janda Baru",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Janda_Baru.mp3",
+			"duration": "268",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 158,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Lagi lagi Aku Gak Bisa Tidur",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Lagi_lagi_Aku_Gak_Bisa_Tidur.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 159,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "Dj Make it bun dem",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/Dj_Make_it_bun_dem.mp3",
+			"duration": "310",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 160,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ MENIMISU X AKON RIGHT NOW)",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_MENIMISU_X_AKON_RIGHT_NOW.mp3",
+			"duration": "190",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 161,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Money TikTok Pargoy",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Money_TikTok_Pargoy.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 162,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ OLD Untuk Mengisi Hatiku",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_OLD_Untuk_Mengisi_Hatiku.mp3",
+			"duration": "384",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 163,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Onishini X Pargoy",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Onishini_X_Pargoy.mp3",
+			"duration": "231",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 164,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ PALING JEDAG JEDUG BASS BETON",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_PALING_JEDAG_JEDUG_BASS_BETON.mp3",
+			"duration": "238",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 165,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Pambisilet Slow Bass",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Pambisilet_Slow_Bass.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 166,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "X2Download.com - DJ PECAH SERIBU REMIX VIRAL TIKTOK TERBARU 2022 DJ HANYA DIA YANG ADA DI ANTARA JANTUNG HATI",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_PECAH_SERIBU_REMIX_VIRAL.mp3",
+			"duration": "418",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 167,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Random Melody by Bongo",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Random_Melody_by_Bongo.mp3",
+			"duration": "301",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 168,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ REMIX VIRAL - SANAM RE",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_REMIX_VIRAL_-_SANAM_RE.mp3",
+			"duration": "255",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 169,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Salting Ko Paling manis",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Salting_Ko_Paling_manis.mp3",
+			"duration": "317",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 170,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Sebagai Penipu Kau Telah Gagal",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Sebagai_Penipu_Kau_Telah_Gagal.mp3",
+			"duration": "345",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 171,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Seharusnya Aku By NandaLIa",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Seharusnya_Aku_By_NandaLIa.mp3",
+			"duration": "285",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 172,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Sia sia Ku berjuang Di negeri Orang",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Sia_sia_Ku_berjuang_Di_negeri_Orang.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 173,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ SIKOK BAGI DUO REMIX BASS BETON VIRAL",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_SIKOK_BAGI_DUO_REMIX_BASS_BETON_VIRAL.mp3",
+			"duration": "244",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 174,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ SLow Jedag Jedug",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_SLow_Jedag_Jedug.mp3",
+			"duration": "389",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 175,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Soria Madele By DJ Nansuya",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Soria_Madele_By_DJ_Nansuya.mp3",
+			"duration": "222",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 176,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Tagoday Full Beat",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Tagoday_Full_Beat.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 177,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Tersimpan Remix",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Tersimpan_Remix.mp3",
+			"duration": "212",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 178,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Tuto tuto x Kamu Punya Pacar Lagi",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Tuto_tuto_x_Kamu_Punya_Pacar_Lagi.mp3",
+			"duration": "263",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 179,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "Dj viral  pok ame ame belalang kupu kupu",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/Dj_viral__pok_ame_ame_belalang_kupu_kupu.mp3",
+			"duration": "295",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 180,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ WaterBoom Men Tiktok",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_WaterBoom_Men_Tiktok.mp3",
+			"duration": "305",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 181,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ Bukan 1 Kali",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_Bukan_1_Kali.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 182,
+			"name_category": "Sikok Bagi Duo DJ Remix Bass",
+			"title": "DJ RIP LOVE FAOUZIA  VIRAL REMIX FULL BASS 2022",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.djsikokbagiduooffline/Sikok_Bagi_Duo_DJ_Remix_Bass/DJ_RIP_LOVE_FAOUZIA__VIRAL_REMIX_FULL_BASS_2022.mp3",
+			"duration": "350",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+
+
+}
