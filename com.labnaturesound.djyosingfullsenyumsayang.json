@@ -64,7 +64,7 @@
 		"unity_init_wait": true,
 
 		"kemungkinan_admob": 10,
-		"minimum_time_admob": 600,
+		"minimum_time_admob": 300,
 		"interval_admob": 5,
 		"admob_open": "ca-app-pub-3773255285608743/3047459187",
 		"admob_banner": "ca-app-pub-3773255285608743/6132787521",
