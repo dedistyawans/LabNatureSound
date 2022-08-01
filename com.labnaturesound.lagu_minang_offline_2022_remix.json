@@ -1,0 +1,1845 @@
+{
+	"ads": {
+		"live_version_code": -1,
+		"init_ads_mode": "single",
+
+		"interstitial_type": "lap",
+		"interval_las": 5,
+
+		"timeout_load": 18,
+
+		"splash_ad": "auto",
+		"banner_ad": "auto",
+		"mrec_ad": "auto",
+		"inter_ad": "auto",
+
+		"splash_ad_identifier": "identifier_1",
+		"inter_ad_identifier": "identifier_2",
+		"banner_ad_identifier": "identifier_3",
+		"mrec_ad_identifier": "identifier_4",
+
+		"interval_awal": 5,
+
+		"kemungkinan_smatoo": 0,
+		"minimum_time_smatoo": 120,
+		"interval_smatoo": 5,
+		"smatoo_publisher_id": "-",
+		"smatoo_banner": "-",
+		"smatoo_mrec": "-",
+		"smatoo_inter": "-",
+		"smatoo_init_wait": true,
+		"smatoo_banner_on" : true,
+		"smatoo_mrec_on" : true,
+		"smatoo_splash_on" : true,
+		"smatoo_inter_on" : true,
+		"smatoo_must_live_playstore" : true,
+
+		"kemungkinan_appodeal": 0,
+		"minimum_time_appodeal": 120,
+		"interval_appodeal": 5,
+		"appodeal_app_key": "-",
+		"appodeal_init_wait": true,
+		"appodeal_banner_on" : true,
+		"appodeal_mrec_on" : true,
+		"appodeal_splash_on" : true,
+		"appodeal_inter_on" : true,
+		"appodeal_must_live_playstore" : true,
+
+		"kemungkinan_vungle": 0,
+		"minimum_time_vungle": 120,
+		"interval_vungle": 5,
+		"vungle_app_id": "-",
+		"vungle_banner": "-",
+		"vungle_mrec": "-",
+		"vungle_inter": "-",
+		"vungle_init_wait": true,
+		"vungle_banner_on" : true,
+		"vungle_mrec_on" : true,
+		"vungle_splash_on" : true,
+		"vungle_inter_on" : true,
+		"vungle_must_live_playstore" : true,
+
+		"kemungkinan_iron": 0,
+		"minimum_time_iron": 120,
+		"interval_iron": 5,
+		"iron_appkey": "-",
+		"iron_init_wait": true,
+		"iron_banner_on" : false,
+		"iron_mrec_on" : false,
+		"iron_splash_on" : true,
+		"iron_inter_on" : true,
+		"iron_must_live_playstore" : true,
+
+		"kemungkinan_fan": 0,
+		"minimum_time_fan": 120,
+		"interval_fan": 5,
+		"fan_banner": "-",
+		"fan_mrec": "-",
+		"fan_inter": "-",
+		"fan_init_wait": true,
+		"fan_banner_on" : true,
+		"fan_mrec_on" : true,
+		"fan_splash_on" : true,
+		"fan_inter_on" : true,
+		"fan_must_live_playstore" : true,
+
+		"kemungkinan_unity": 0,
+		"minimum_time_unity": 120,
+		"interval_unity": 5,
+		"unity_game_id": "-",
+		"unity_banner": "-",
+		"unity_inter": "-",
+		"unity_init_wait": true,
+		"unity_banner_on" : true,
+		"unity_mrec_on" : true,
+		"unity_splash_on" : true,
+		"unity_inter_on" : true,
+		"unity_must_live_playstore" : true,
+
+		"kemungkinan_admob": 0,
+		"minimum_time_admob": 300,
+		"interval_admob": 5,
+		"admob_open": "-",
+		"admob_banner": "-",
+		"admob_inter": "-",
+		"admob_init_wait": true,
+		"admob_banner_on" : true,
+		"admob_mrec_on" : true,
+		"admob_splash_on" : true,
+		"admob_inter_on" : true,
+		"admob_must_live_playstore" : true,
+
+		"kemungkinan_max": 0,
+		"minimum_time_max": 120,
+		"interval_max": 5,
+		"max_banner": "-",
+		"max_mrec": "-",
+		"max_inter": "-",
+		"max_init_wait": true,
+		"max_banner_on" : true,
+		"max_mrec_on" : true,
+		"max_splash_on" : true,
+		"max_inter_on" : true,
+		"max_must_live_playstore" : true,
+
+		"kemungkinan_startapp": 1,
+		"minimum_time_startapp": 0,
+		"interval_startapp": 5,
+		"startapp_id": "205960563",
+		"startapp_init_wait": true,
+		"startapp_banner_on" : true,
+		"startapp_mrec_on" : true,
+		"startapp_splash_on" : true,
+		"startapp_inter_on" : true,
+		"startapp_must_live_playstore" : true,
+
+		"app_live_store": "auto",
+		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+	},
+	"Categories": [
+		{
+			"id": 1,
+			"name_category": "Pop Minang Offline",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "Lagu Minang",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/tray.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "Lagu Minang Emas Hantaran",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/tray.jpg"
+		},
+		{
+			"id": 4,
+			"name_category": "Lagu Minang Melayu",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg"
+		},
+		{
+			"id": 5,
+			"name_category": "Minang Lagu",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg"
+		},
+		{
+			"id": 6,
+			"name_category": "Minang Rantau",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg"
+		},
+		{
+			"id": 7,
+			"name_category": "Minang Tekabek",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg"
+		}
+	],
+	"Data": [
+		{
+			"id": 1,
+			"name_category": "Pop Minang Offline",
+			"title": "bakilah_ka_rantau",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/bakilah_ka_rantau.mp3",
+			"duration": "351",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 2,
+			"name_category": "Pop Minang Offline",
+			"title": "balaruik_rindu",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/balaruik_rindu.mp3",
+			"duration": "281",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 3,
+			"name_category": "Pop Minang Offline",
+			"title": "bapisah_untuak_basatu",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/bapisah_untuak_basatu.mp3",
+			"duration": "338",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 4,
+			"name_category": "Pop Minang Offline",
+			"title": "basamo_manjago_cinto",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/basamo_manjago_cinto.mp3",
+			"duration": "364",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 5,
+			"name_category": "Pop Minang Offline",
+			"title": "bialah_rantau_den_pajauah",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/bialah_rantau_den_pajauah.mp3",
+			"duration": "465",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 6,
+			"name_category": "Pop Minang Offline",
+			"title": "cinto_dalam_sansaro",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/cinto_dalam_sansaro.mp3",
+			"duration": "371",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 7,
+			"name_category": "Pop Minang Offline",
+			"title": "cinto_panabuih_budi",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/cinto_panabuih_budi.mp3",
+			"duration": "379",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 8,
+			"name_category": "Pop Minang Offline",
+			"title": "cinto_paubek_luko",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/cinto_paubek_luko.mp3",
+			"duration": "412",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 9,
+			"name_category": "Pop Minang Offline",
+			"title": "cinto_sapasukuan",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/cinto_sapasukuan.mp3",
+			"duration": "354",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 10,
+			"name_category": "Pop Minang Offline",
+			"title": "dulu_diurang_kini_diawak",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/dulu_diurang_kini_diawak.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 11,
+			"name_category": "Pop Minang Offline",
+			"title": "duo_hati_satu_cinto",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/duo_hati_satu_cinto.mp3",
+			"duration": "342",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 12,
+			"name_category": "Pop Minang Offline",
+			"title": "duo_rago_satu_mimpi",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/duo_rago_satu_mimpi.mp3",
+			"duration": "400",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 13,
+			"name_category": "Pop Minang Offline",
+			"title": "hancua_raso_picayo",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/hancua_raso_picayo.mp3",
+			"duration": "432",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 14,
+			"name_category": "Pop Minang Offline",
+			"title": "harato_kajadi_baban",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/harato_kajadi_baban.mp3",
+			"duration": "395",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 15,
+			"name_category": "Pop Minang Offline",
+			"title": "kawin_tapaso",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/kawin_tapaso.mp3",
+			"duration": "379",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 16,
+			"name_category": "Pop Minang Offline",
+			"title": "luko_badarah_ulang",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/luko_badarah_ulang.mp3",
+			"duration": "402",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 17,
+			"name_category": "Pop Minang Offline",
+			"title": "makan_nan_kayo",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/makan_nan_kayo.mp3",
+			"duration": "456",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 18,
+			"name_category": "Pop Minang Offline",
+			"title": "manabuih_janji",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/manabuih_janji.mp3",
+			"duration": "431",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 19,
+			"name_category": "Pop Minang Offline",
+			"title": "panek_diawak_kayo_diurang",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/panek_diawak_kayo_diurang.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 20,
+			"name_category": "Pop Minang Offline",
+			"title": "picayolah_sayang",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/picayolah_sayang.mp3",
+			"duration": "439",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 21,
+			"name_category": "Pop Minang Offline",
+			"title": "puti_sarugo",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/puti_sarugo.mp3",
+			"duration": "378",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 22,
+			"name_category": "Pop Minang Offline",
+			"title": "rantau_managah",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/rantau_managah.mp3",
+			"duration": "409",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 23,
+			"name_category": "Pop Minang Offline",
+			"title": "saba_samo_mananti",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/saba_samo_mananti.mp3",
+			"duration": "378",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 24,
+			"name_category": "Pop Minang Offline",
+			"title": "sahati_dalam_cinto",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/sahati_dalam_cinto.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 25,
+			"name_category": "Pop Minang Offline",
+			"title": "sangkutan_hati",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/sangkutan_hati.mp3",
+			"duration": "309",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 26,
+			"name_category": "Pop Minang Offline",
+			"title": "sarinai_hujan",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/sarinai_hujan.mp3",
+			"duration": "459",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 27,
+			"name_category": "Pop Minang Offline",
+			"title": "sarindu_bungo_jo_kumbang",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/sarindu_bungo_jo_kumbang.mp3",
+			"duration": "358",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 28,
+			"name_category": "Pop Minang Offline",
+			"title": "sayang_samo_dilimau",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/sayang_samo_dilimau.mp3",
+			"duration": "392",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 29,
+			"name_category": "Pop Minang Offline",
+			"title": "seso_panyasalan",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/seso_panyasalan.mp3",
+			"duration": "379",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 30,
+			"name_category": "Pop Minang Offline",
+			"title": "tabaok_seso",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/tabaok_seso.mp3",
+			"duration": "424",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 31,
+			"name_category": "Pop Minang Offline",
+			"title": "talambek_datang",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/talambek_datang.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 32,
+			"name_category": "Pop Minang Offline",
+			"title": "talarai_kandak_rangtuo",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/talarai_kandak_rangtuo.mp3",
+			"duration": "363",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 33,
+			"name_category": "Pop Minang Offline",
+			"title": "usah_dikana_kana",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/usah_dikana_kana.mp3",
+			"duration": "423",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 34,
+			"name_category": "Pop Minang Offline",
+			"title": "Pop Minang Offline 1",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/Pop_Minang_Offline_1.mp3",
+			"duration": "333",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 35,
+			"name_category": "Pop Minang Offline",
+			"title": "Pop Minang Offline 2",
+			"image": "file:///android_asset/content/Pop_Minang_Offline/tray.jpg",
+			"link_mp3": "file:///android_asset/content/Pop_Minang_Offline/Pop_Minang_Offline_2.mp3",
+			"duration": "372",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 36,
+			"name_category": "Lagu Minang",
+			"title": "Lagu Minang 1",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/Lagu_Minang_1.mp3",
+			"duration": "364",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 37,
+			"name_category": "Lagu Minang",
+			"title": "Lagu Minang 2",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/Lagu_Minang_2.mp3",
+			"duration": "352",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 38,
+			"name_category": "Lagu Minang",
+			"title": "Lagu Minang 3",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/Lagu_Minang_3.mp3",
+			"duration": "433",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 39,
+			"name_category": "Lagu Minang",
+			"title": "Lagu Minang 4",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/Lagu_Minang_4.mp3",
+			"duration": "377",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 40,
+			"name_category": "Lagu Minang",
+			"title": "Lagu Minang 5",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/Lagu_Minang_5.mp3",
+			"duration": "364",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 41,
+			"name_category": "Lagu Minang",
+			"title": "Lagu Minang 6",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/Lagu_Minang_6.mp3",
+			"duration": "347",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 42,
+			"name_category": "Lagu Minang",
+			"title": "Lagu Minang 7",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/Lagu_Minang_7.mp3",
+			"duration": "356",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 43,
+			"name_category": "Lagu Minang",
+			"title": "Lagu Minang 8",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/Lagu_Minang_8.mp3",
+			"duration": "482",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 44,
+			"name_category": "Lagu Minang",
+			"title": "Lagu Minang 9",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/Lagu_Minang_9.mp3",
+			"duration": "435",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 45,
+			"name_category": "Lagu Minang",
+			"title": "Lagu Minang 10",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/Lagu_Minang_10.mp3",
+			"duration": "526",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 46,
+			"name_category": "Lagu Minang",
+			"title": "Lagu Minang 11",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/Lagu_Minang_11.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 47,
+			"name_category": "Lagu Minang",
+			"title": "Lagu Minang 12",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/Lagu_Minang_12.mp3",
+			"duration": "306",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 48,
+			"name_category": "Lagu Minang",
+			"title": "Lagu Minang 13",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/Lagu_Minang_13.mp3",
+			"duration": "367",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 49,
+			"name_category": "Lagu Minang",
+			"title": "Lagu Minang 14",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/Lagu_Minang_14.mp3",
+			"duration": "345",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 50,
+			"name_category": "Lagu Minang",
+			"title": "Lagu Minang 15",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/Lagu_Minang_15.mp3",
+			"duration": "358",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 51,
+			"name_category": "Lagu Minang",
+			"title": "Lagu Minang 16",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang/Lagu_Minang_16.mp3",
+			"duration": "363",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 52,
+			"name_category": "Lagu Minang Emas Hantaran",
+			"title": "CINTO SAPASUKUAN",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/CINTO_SAPASUKUAN.mp3",
+			"duration": "251",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 53,
+			"name_category": "Lagu Minang Emas Hantaran",
+			"title": "DULU SURANG KINI BADUO",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/DULU_SURANG_KINI_BADUO.mp3",
+			"duration": "334",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 54,
+			"name_category": "Lagu Minang Emas Hantaran",
+			"title": "EMAS HANTARAN",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/EMAS_HANTARAN.mp3",
+			"duration": "286",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 55,
+			"name_category": "Lagu Minang Emas Hantaran",
+			"title": "GARAH KUCINDAN MATO",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/GARAH_KUCINDAN_MATO.mp3",
+			"duration": "264",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 56,
+			"name_category": "Lagu Minang Emas Hantaran",
+			"title": "HAROK BAHAGIAKAN BUNDO",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/HAROK_BAHAGIAKAN_BUNDO.mp3",
+			"duration": "300",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 57,
+			"name_category": "Lagu Minang Emas Hantaran",
+			"title": "HAROK DIRANTAU URANG",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/HAROK_DIRANTAU_URANG.mp3",
+			"duration": "346",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 58,
+			"name_category": "Lagu Minang Emas Hantaran",
+			"title": "JANJI MANJALANG RANTAU",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/JANJI_MANJALANG_RANTAU.mp3",
+			"duration": "327",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 59,
+			"name_category": "Lagu Minang Emas Hantaran",
+			"title": "JARAK NAN MAMISAH",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/JARAK_NAN_MAMISAH.mp3",
+			"duration": "292",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 60,
+			"name_category": "Lagu Minang Emas Hantaran",
+			"title": "MANUNGGU JANJI",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/MANUNGGU_JANJI.mp3",
+			"duration": "478",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 61,
+			"name_category": "Lagu Minang Emas Hantaran",
+			"title": "OI MAMAK",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/OI_MAMAK.mp3",
+			"duration": "320",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 62,
+			"name_category": "Lagu Minang Emas Hantaran",
+			"title": "PANEK DIAWAK KAYO DIURANG",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/PANEK_DIAWAK_KAYO_DIURANG.mp3",
+			"duration": "294",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 63,
+			"name_category": "Lagu Minang Emas Hantaran",
+			"title": "PASAN HATI NAN RINDU",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/PASAN_HATI_NAN_RINDU.mp3",
+			"duration": "365",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 64,
+			"name_category": "Lagu Minang Emas Hantaran",
+			"title": "PULANGLA UDA",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/PULANGLA_UDA.mp3",
+			"duration": "404",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 65,
+			"name_category": "Lagu Minang Emas Hantaran",
+			"title": "RANTAU DEN PANJAUAH",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/RANTAU_DEN_PANJAUAH.mp3",
+			"duration": "364",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 66,
+			"name_category": "Lagu Minang Emas Hantaran",
+			"title": "SAKIK TAUBEK HILANG BAGANTI",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/SAKIK_TAUBEK_HILANG_BAGANTI.mp3",
+			"duration": "352",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 67,
+			"name_category": "Lagu Minang Emas Hantaran",
+			"title": "TADAYO GURAUAN SAYANG",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/TADAYO_GURAUAN_SAYANG.mp3",
+			"duration": "311",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 68,
+			"name_category": "Lagu Minang Emas Hantaran",
+			"title": "TAKABEK GADIH RANTAU",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Emas_Hantaran/TAKABEK_GADIH_RANTAU.mp3",
+			"duration": "354",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 69,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 1",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_1.mp3",
+			"duration": "338",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 70,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 2",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_2.mp3",
+			"duration": "294",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 71,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 3",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_3.mp3",
+			"duration": "376",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 72,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 4",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_4.mp3",
+			"duration": "279",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 73,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 5",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_5.mp3",
+			"duration": "399",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 74,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 6",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_6.mp3",
+			"duration": "324",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 75,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 7",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_7.mp3",
+			"duration": "319",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 76,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 8",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_8.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 77,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 9",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_9.mp3",
+			"duration": "344",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 78,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 10",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_10.mp3",
+			"duration": "431",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 79,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 11",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_11.mp3",
+			"duration": "368",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 80,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 12",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_12.mp3",
+			"duration": "400",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 81,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 13",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_13.mp3",
+			"duration": "405",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 82,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 14",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_14.mp3",
+			"duration": "402",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 83,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 15",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_15.mp3",
+			"duration": "310",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 84,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 16",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_16.mp3",
+			"duration": "349",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 85,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 17",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_17.mp3",
+			"duration": "384",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 86,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 18",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_18.mp3",
+			"duration": "354",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 87,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 19",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_19.mp3",
+			"duration": "302",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 88,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 20",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_20.mp3",
+			"duration": "299",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 89,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 21",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_21.mp3",
+			"duration": "367",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 90,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 22",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_22.mp3",
+			"duration": "385",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 91,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 23",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_23.mp3",
+			"duration": "248",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 92,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 24",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_24.mp3",
+			"duration": "277",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 93,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 25",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_25.mp3",
+			"duration": "288",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 94,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 26",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_26.mp3",
+			"duration": "424",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 95,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 27",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_27.mp3",
+			"duration": "332",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 96,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 28",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_28.mp3",
+			"duration": "363",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 97,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 29",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_29.mp3",
+			"duration": "364",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 98,
+			"name_category": "Lagu Minang Melayu",
+			"title": "Lagu Minang Melayu 30",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Lagu_Minang_Melayu/Lagu_Minang_Melayu_30.mp3",
+			"duration": "330",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 99,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 1",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_1.mp3",
+			"duration": "348",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 100,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 2",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_2.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 101,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 3",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_3.mp3",
+			"duration": "262",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 102,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 4",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_4.mp3",
+			"duration": "342",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 103,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 5",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_5.mp3",
+			"duration": "345",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 104,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 6",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_6.mp3",
+			"duration": "320",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 105,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 7",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_7.mp3",
+			"duration": "329",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 106,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 8",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_8.mp3",
+			"duration": "302",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 107,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 9",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_9.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 108,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 10",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_10.mp3",
+			"duration": "322",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 109,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 11",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_11.mp3",
+			"duration": "357",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 110,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 12",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_12.mp3",
+			"duration": "275",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 111,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 13",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_13.mp3",
+			"duration": "343",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 112,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 14",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_14.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 113,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 15",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_15.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 114,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 16",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_16.mp3",
+			"duration": "314",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 115,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 17",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_17.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 116,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 18",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_18.mp3",
+			"duration": "403",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 117,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 19",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_19.mp3",
+			"duration": "338",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 118,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 20",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_20.mp3",
+			"duration": "349",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 119,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 21",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_21.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 120,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 22",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_22.mp3",
+			"duration": "378",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 121,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 23",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_23.mp3",
+			"duration": "389",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 122,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 24",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_24.mp3",
+			"duration": "344",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 123,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 25",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_25.mp3",
+			"duration": "462",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 124,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 26",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_26.mp3",
+			"duration": "254",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 125,
+			"name_category": "Minang Lagu",
+			"title": "Minang Lagu 27",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Lagu/Minang_Lagu_27.mp3",
+			"duration": "348",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 126,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 1",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_1.mp3",
+			"duration": "367",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 127,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 2",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_2.mp3",
+			"duration": "482",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 128,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 3",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_3.mp3",
+			"duration": "338",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 129,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 4",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_4.mp3",
+			"duration": "365",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 130,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 5",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_5.mp3",
+			"duration": "315",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 131,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 6",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_6.mp3",
+			"duration": "223",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 132,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 7",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_7.mp3",
+			"duration": "377",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 133,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 8",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_8.mp3",
+			"duration": "306",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 134,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 9",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_9.mp3",
+			"duration": "312",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 135,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 10",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_10.mp3",
+			"duration": "380",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 136,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 11",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_11.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 137,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 12",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_12.mp3",
+			"duration": "425",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 138,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 13",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_13.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 139,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 14",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_14.mp3",
+			"duration": "252",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 140,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 15",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_15.mp3",
+			"duration": "348",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 141,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 16",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_16.mp3",
+			"duration": "312",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 142,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 17",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_17.mp3",
+			"duration": "316",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 143,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 18",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_18.mp3",
+			"duration": "354",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 144,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 19",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_19.mp3",
+			"duration": "289",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 145,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 20",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_20.mp3",
+			"duration": "303",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 146,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 21",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_21.mp3",
+			"duration": "365",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 147,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 22",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_22.mp3",
+			"duration": "352",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 148,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 23",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_23.mp3",
+			"duration": "379",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 149,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 24",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_24.mp3",
+			"duration": "325",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 150,
+			"name_category": "Minang Rantau",
+			"title": "Minang Rantau 25",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Rantau/Minang_Rantau_25.mp3",
+			"duration": "284",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 151,
+			"name_category": "Minang Tekabek",
+			"title": "janji_manjalang_rantau",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/janji_manjalang_rantau.mp3",
+			"duration": "331",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 152,
+			"name_category": "Minang Tekabek",
+			"title": "jan_ragu_jo_bimbang",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/jan_ragu_jo_bimbang.mp3",
+			"duration": "326",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 153,
+			"name_category": "Minang Tekabek",
+			"title": "kasiah_sabateh_kawan",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/kasiah_sabateh_kawan.mp3",
+			"duration": "426",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 154,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 1",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_1.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 155,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 2",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_2.mp3",
+			"duration": "359",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 156,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 3",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_3.mp3",
+			"duration": "276",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 157,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 4",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_4.mp3",
+			"duration": "344",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 158,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 5",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_5.mp3",
+			"duration": "310",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 159,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 6",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_6.mp3",
+			"duration": "278",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 160,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 7",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_7.mp3",
+			"duration": "365",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 161,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 8",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_8.mp3",
+			"duration": "342",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 162,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 9",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_9.mp3",
+			"duration": "373",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 163,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 10",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_10.mp3",
+			"duration": "353",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 164,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 11",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_11.mp3",
+			"duration": "385",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 165,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 12",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_12.mp3",
+			"duration": "484",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 166,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 13",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_13.mp3",
+			"duration": "390",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 167,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 14",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_14.mp3",
+			"duration": "365",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 168,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 15",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_15.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 169,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 16",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_16.mp3",
+			"duration": "426",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 170,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 17",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_17.mp3",
+			"duration": "278",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 171,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 18",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_18.mp3",
+			"duration": "297",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 172,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 19",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_19.mp3",
+			"duration": "404",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 173,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 20",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_20.mp3",
+			"duration": "366",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 174,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 21",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_21.mp3",
+			"duration": "356",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 175,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 22",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_22.mp3",
+			"duration": "307",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 176,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 23",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_23.mp3",
+			"duration": "338",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 177,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 24",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_24.mp3",
+			"duration": "365",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 178,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 25",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_25.mp3",
+			"duration": "313",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 179,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 26",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_26.mp3",
+			"duration": "378",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 180,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 27",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_27.mp3",
+			"duration": "339",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 181,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 28",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_28.mp3",
+			"duration": "470",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 182,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 29",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_29.mp3",
+			"duration": "369",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 183,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 30",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_30.mp3",
+			"duration": "324",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 184,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 31",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_31.mp3",
+			"duration": "308",
+			"lyrics": "Tidak Ada Lirik"
+		},
+		{
+			"id": 185,
+			"name_category": "Minang Tekabek",
+			"title": "Minang Tekabek 32",
+			"image": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/tray.jpg",
+			"link_mp3": "https://labnaturesound.labigsharim.me/NatureSoundLab/com.labnaturesound.lagu_minang_offline_2022_remix/Minang_Tekabek/Minang_Tekabek_32.mp3",
+			"duration": "267",
+			"lyrics": "Tidak Ada Lirik"
+		}
+	]
+
+
+}
