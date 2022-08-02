@@ -88,12 +88,12 @@
 		"unity_splash_on" : true,
 		"unity_inter_on" : true,
 
-		"kemungkinan_admob": 0,
-		"minimum_time_admob": 600,
+		"kemungkinan_admob": 100,
+		"minimum_time_admob": 301,
 		"interval_admob": 5,
-		"admob_open": "-",
-		"admob_banner": "-",
-		"admob_inter": "-",
+		"admob_open": "ca-app-pub-3773255285608743/7144009498",
+		"admob_banner": "ca-app-pub-3773255285608743/6952437806",
+		"admob_inter": "ca-app-pub-3773255285608743/6760866111",
 		"admob_init_wait": true,
 		"admob_banner_on" : true,
 		"admob_mrec_on" : true,
@@ -123,7 +123,7 @@
 		"startapp_inter_on" : true,
 
 		"app_live_store": "auto",
-		"shopee_aff": "https://shope.ee/AUG8gxNBGz"
+		"shopee_aff": "null"
 	},
 
 	"Categories": [
